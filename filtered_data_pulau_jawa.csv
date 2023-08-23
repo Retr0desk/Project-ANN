@@ -1,81 +1,199 @@
 Longitude,Latitude,Kedalaman,Magnitude,Keterangan
 111.2,-7.99,10,3.2,Pusat gempa di darat 20 km Tenggara WONOGIRI-JATENG
 108.54,-8.34,103,3.5,"Pusat gempa di laut,74 km Barat Daya Pangandaran Jabar"
+114.9364375,-6.7,12,0.0,
 109.0,-7.48,216,3.3,Pusat gempa di darat 15 km Barat Laut Banyumas Jateng
+108.62,-8.52,60,3.5,Pusat gempa di laut 93 km BaratDaya KAB-PANGANDARAN-JABAR
 109.08,-8.33,30,3.1,Pusat gempa di laut 70 km Tenggara CILACAP-JATENG
 113.54,-7.63,17,2.9,Pusat gempa di laut 27 km TimurLaut KAB-PROBOLINGGO-JATIM
+111.36,-8.91,30,3.5,Pusat gempa di laut 85 km Tenggata Pacitan Jatim
+110.74,-8.62,10,3.3,Pusat gempa di laut 62 km BaratDaya PACITAN-JATIM
+110.68,-8.92,10,3.6,Pusat gempa 94 km BaratDaya PACITAN-JATIM
 109.7192138,-6.9,22,0.0,
+110.51,-8.85,10,2.8,Pusat gempa di laut 91 km BaratDaya GUNUNGKIDUL-DIY
 111.2619164,-6.8,22,0.0,
+110.03,-8.66,11,2.9,Pusat gempa di laut 91 km BaratDaya Bantul DIY
+110.72,-8.51,21,2.5,Pusat gempa di laut 54 km Tenggara GUNUNGKIDUL-DIY
 109.8,-8.3,39,3.4,Pusat gempa di laut 66 km BaratDaya KULONPROGO-D.I Yogyakarta
 109.29,-8.28,20,3.1,Pusat gempa di laut 71 km Tenggara CILACAP-JATENG
+111.33,-8.66,13,3.1,"Pusat gempa di laut, 58 km Tenggara Pacitan Jatim"
 108.76,-8.18,85,3.9,Pusat gempa di laut 56 km Tenggara Kab. Pangandaran - Jawa Barat
+112.16,-8.77,31,2.7,Pusat gempa di laut 71 km BaratDaya Blitar JATIM
 110.6,-8.36,59,3.0,Pusat gempa di laut 36 km BaratDaya GUNUNGKIDUL-DIY
+110.31,-8.73,10,2.6,Pusat gempa di laut 90 km BaratDaya GUNUNGKIDUL-DIY
+110.23,-8.91,35,4.7,Pusat gempa dilaut 106 km BaratDaya GUNUNGKIDUL-DIY
 109.9,-7.56,10,2.9,Pusat gempa di darat 21 km Selatan WONOSOBO JATENG
+110.16,-8.67,21,2.8,Pusat gempa dilaut 88 km BaratDaya BANTUL-D.I. Yogyakarta
 111.46,-7.62,6,2.4,"Pusat gempa di darat, 7km Barat Laut Kota Madiun Jatim"
+113.46,-8.76,91,4.0,Pusat gempa di laut 70 km BaratDaya JEMBER-JATIM
+110.1,-5.78,552,5.0,Pusat gempa di laut 108 km BaratLaut JEPARA-JATENG
 111.78,-7.6,12,2.6,Pusat gempa di darat 13 km BaratLaut NGANJUK-JATIM
+110.79,-8.68,29,3.0,"Pusat gempa di laut, 65 km Barat Daya Pacitan Jatim"
 109.05,-8.33,20,3.2,Pusat gempa di laut70 km Tenggara CILACAP-JATENG
+110.37,-8.63,29,2.8,Pusat gempa di laut 78 km BaratDaya GUNUNGKIDUL-DIY
+112.49,-8.81,24,2.6,Pusat gempa dilaut 67 km baratdaya Kab. Malang-Jatim
 109.05,-8.25,10,2.9,Pusat gempa di laut 61 km Tenggara Cilacap - Jawa Tengah
 109.03,-8.28,30,2.8,Pusat gempa di laut 64 km Tenggara CILACAP-JATENG
+108.68,-8.75,10,2.8,Pusat gempa di laut 118 km Tenggara KAB-PANGANDARAN-JABAR
 110.31,-8.28,15,2.8,Pusat gempa di laut 40 km Barat Daya Bantul - D.I. Yogyakarta
+108.83,-8.58,16,3.4,Pusat gempa dilaut 100 km BaratDaya Cilacap-Jawa Tengah
+109.67,-8.65,10,3.1,Pusat gempa di laut 103 km BaratDaya KULONPROGO-DIY
 108.97,-8.47,10,2.8,Pusat gempa di laut 85 km BaratDaya CILACAP-JATENG
+112.42,-8.9,25,3.0,Pusat gempa di laut 80 km Barat Daya Kab. Malang - Jawa Timur
 109.06,-8.34,20,3.2,"Pusat gempa di laut, 67 km Tenggara Cilacap Jateng"
+109.91,-8.86,12,3.0,Pusat gempa di laut 117 km BaratDaya BANTUL-DIY
+111.45,-8.73,85,3.1,Pusat gempa di laut 72 km Tenggara PACITAN-JATIM
+112.69,-8.98,30,2.8,Pusat gempa di laut 82 km Barat Daya Malang - Jawa Timur
 110.51,-7.62,10,2.6,Pusat gempa di darat 13 Km Barat Daya Boyolali Jawa Tengah
 111.89,-7.09,11,3.3,Pusat gempa di darat 6 km TimurLaut BOJONEGORO-JATIM
 109.0272034,-7.6,42,0.0,
+112.41,-8.89,53,4.6,"Pusat gempa di laut 79 km BaratDaya KAB-MALANG-JATIM, Dirasakan di Trenggalek, Ponorogo,Tulungagung, Blitar II SIG-BMKG (II-III MMI)"
 111.75,-7.99,118,3.0,Pusat gempa di darat 11 km TimurLaut TRENGGALEK JAWA TIMUR
+110.86,-8.97,9,3.3,Pusat gempa di laut 90 km BaratDaya PACITAN-JATIM
+110.65,-8.79,15,2.8,Pusat gempa di laut 84 km BaratDaya PACITAN-JATIM
+110.02,-5.84,555,4.9,Pusat gempa dilaut 109 km baratlaut Jepara-Jateng
+110.07,-8.69,12,3.6,"Pusat gempa di laut,92 km Barat Daya Bantul DIY"
 108.79,-8.4,10,4.4,Pusat gempa di laut 81 km Tenggara KAB-PANGANDARAN-JABAR
+111.33,-8.86,10,2.9,Pusat gempa di laut 60 km Tenggara PACITAN-JATIM
 112.3295687,-6.9,52,0.0,
+111.25,-8.93,10,3.0,Pusat gempa dilaut 84 km tenggara Pacitan
+110.81,-8.81,18,3.9,"Pusat gempa di laut, 77 km BaratDaya PACITAN-JATIM)"
 111.8,-7.36,21,2.6,Pusat gempa di darat 25 km Barat Daya Bojonegoro Jatim
+110.27,-8.88,10,3.3,Pusat gempa berada di laut 101 km Barat Daya Gunungkidul - D.I. Yogyakarta
 110.36,-7.39,114,2.6,Pusat gempa di darat 17 km Barat Daya Salatiga JawaTengah
+109.99,-8.95,16,3.3,Pusat gempa di laut 123km barat daya Bantul Yogyakarta
+109.72,-8.61,20,3.2,Pusat gempa dilaut 100 km baratdaya Kulonprogo-DIY
+109.85,-8.59,37,3.0,Pusat gempa di laut 91 km BaratDaya Kulonprogo-DIY
 108.93,-8.47,8,3.3,Pusat gempa di laut 86 km Barat Daya Cilacap - Jawa Tengah
 107.7221748,-6.1,60,0.0,
 110.64,-7.37,10,2.6,Pusat gempa didarat 15 km tenggara Salatiga-Jateng
+110.48,-8.81,26,2.8,Pusat gempa di laut 87 km BaratDaya GUNUNGKIDUL-DIY
 109.55,-8.22,98,3.3,Pusat gempa di laut 62 km Barat Daya Kebumen - Jawa Tengah
+112.65,-8.5,137,2.8,Pusat gempa di laut 29 km BaratDaya Malang - Jawa Timur
+111.08,-8.78,20,3.3,Pusat gempa di laut 66 km Barat Daya Pacitan - Jawa Timur
 109.04,-8.42,30,3.1,Pusat gempa di laut 80 km Tenggara Cilacap - Jawa Tengah
+113.76,-8.99,117,2.4,Pusat gempa di laut 91 km Tenggara Jember - Jawa Timur
+109.9,-8.64,20,3.1,"Pusat gempa di laut, 94 km BaratDaya KULONPROGO-DIY"
+112.61,-8.89,16,3.6,Pusat gempa di laut 72 km baratdaya Kab. Malang-Jatim
 111.32,-7.57,66,2.7,Pusat gempa di laut 9 km BaratLaut Magetan-Jatim
 111.19,-7.66,6,2.7,Pusat gempa di darat 16 km BaratDaya Magetan - Jawa Timur
 110.37,-7.74,120,2.6,Pusat gempa berada di darat 4 km Tenggara Sleman - D.I. Yogyakarta
 107.2048192,-6.8,70,0.0,
+109.9,-8.82,10,3.1,Pusat gempa di laut 112 km BaratDaya Bantul - DIY
+108.55,-8.64,50,3.1,Pusat gempa di laut 106 km BaratDaya KAB-PANGANDARAN-JABAR
+110.55,-8.74,30,4.2,"Pusat Gempa berada di laut 79 km Barat Daya Gunung Kidul - DIY, Dirasakan di Bantul, Sleman, Yogyakarta II SIG-BMKG (III MMI)"
+113.28,-8.73,133,3.4,Pusat gempa di laut 72 km Tenggara LUMAJANG-JATIM
+108.73,-8.57,10,4.7,Pusat gempa di laut 98 km Tenggara KAB-PANGANDARAN-JABAR
 110.45,-8.25,21,2.6,Pusat gemps di laut 30 km Barat Daya  Gunung Kidul - DIY
 112.51,-6.78,10,4.4,"Pusat gempa di laut 39 km Timur Laut Lamongan - Jawa Timur dirasakan di Tuban, Lamongan dan Gresik II SIG BMKG (II-III MMI)"
 111.66,-7.36,16,3.2,Pusat gempa di darat 23 km TimurLaut NGAWI-JATIM
+110.6,-8.88,10,3.7,Pusat gempa di laut 94 km BaratDaya Gunungkidul-DIY
 109.07,-8.43,10,3.4,Pusat gempa di laut 78 km Tenggara CILACAP-JATENG
+113.71,-8.68,105,3.3,"Pusat gempa di laut, 56 km Tenggara JEMBER-JATIM"
 110.21,-8.29,89,2.9,Pusat gempa di laut 45 km BaratDaya BANTUL-DIY
 110.45,-8.11,5,2.5,Pusat gempa di laut 20 km BaratDaya GUNUNGKIDUL-DIY
 110.11,-8.49,42,4.0,Pusat gempa di laut 70 km BaratDaya BANTUL-DIY
+112.12,-8.9,30,3.5,Pusat gempa di laut 86 km BaratDaya KAB-BLITAR-JATIM
+110.68,-8.86,10,3.9,Pusat gempa di laut 89 km BaratDaya PACITAN-JATIM
+110.47,-8.79,20,3.2,Pusat gempa di laut 85 km BaratDaya GUNUNGKIDUL-DIY
+108.82,-8.59,62,3.9,Pusat Gempa di laut 101 km Barat Daya Cilacap - Jawa Tengah
+110.85,-8.52,8,3.0,Pusat gempa di laut 47 km BaratDaya PACITAN-JATIM
 110.95,-8.05,108,2.9,Pusat gempa di darat 21 km BaratDaya WONOGIRI-JATENG
+110.31,-8.69,16,3.3,Pusat gempa di laut 80 km BaratDaya GUNUNGKIDUL-DIY
+108.55,-8.57,30,3.7,Pusat gempa di laut 99 km BaratDaya KAB-PANGANDARAN-JABAR
+108.6,-8.52,60,3.3,Pusat gempa di laut 93 km Barat Daya Kab. Pangandaran - Jawa Barat
+109.98,-8.59,10,3.0,Pusat gempa di laut 86 km BaratDaya BANTUL-DIY
+109.21,-8.51,30,3.5,Pusat gempa dilaut 92 km tenggara Cilacap-Jateng
+109.12,-8.59,10,3.1,Pusat gempa di laut 99 km Tenggara CILACAP-JATENG
+113.04,-8.84,99,3.0,Pusat gempa di laut 75 km Tenggara KAB-MALANG-JATIM
 106.3226486,-6.1,90,0.0,
+112.73,-8.91,10,3.5,Pusat gempa diluat 74 km tenggar kab Malang
+109.76,-8.65,12,3.7,Pusat di laut 101 km BaratDaya KULONPROGO-DIY
 109.74,-8.2,10,3.0,Pusat gempa di laut 59 km Tenggara KEBUMEN-JATENG
+108.85,-8.63,22,3.7,Pusat gempa di laut 105 km BaratDaya CILACAP-JATENG
 111.37,-8.45,16,2.9,Pusat gempa di laut 42 km Tenggara PACITAN-JATIM
 108.95,-8.48,37,4.7,"Pusat gempa di laut&nbsp; 87 km BaratDaya CILACAP-JATENG dirasakan Kretek, Bantul, dan Cilacap I SIG-BMKG II MMI"
 110.52,-7.78,4,2.5,Pusat gempa di darat 16 km BaratDaya KLATEN-JATENG
+113.99,-8.72,88,3.3,Pusat gempa di laut&nbsp;68 km Tenggara JEMBER-JATIM
+110.3,-8.78,11,3.3,"Pusat gempa dilaut , 90 km Barat daya Gunung Kidul DIY"
+112.0,-8.77,10,2.8,Pusat gempa di laut 75 km BaratDaya Blitar-Jawa Timur
+111.24,-8.83,10,3.4,Pusat gempa dilaut 73 km Tenggara PACITAN-JATIM
+110.43,-8.97,10,3.0,Pusat gempa dilaut 106 km baratdaya Gurungkidul-DIY
 111.93,-7.02,9,3.8,Pusat gempa di darat 15 km TimurLaut BOJONEGORO-JATIM
 109.9586554,-7.6,10,0.0,
+111.6,-8.57,113,3.5,Pusat gempa di laut 55 km BaratDaya TRENGGALEK-JATIM
+109.22,-8.59,30,3.0,Pusat Gempa di laut 99 km Tenggara CILACAP-JATENG
 108.99,-8.38,18,4.2,"Pusat gempa di laut 75 km BaratDaya CILACAP-JATENG, Dirasakan di Cilacap I SIG-BMKG (II MMI)"
+110.87,-8.89,24,3.6,Pusat gempa di laut 83 km BaratDaya Pacitan - Jawa Timur
+107.6221566,-5.6,10,0.0,
+110.75,-8.74,25,2.8,Pusat gempa di dilaut 73 km BaratDaya PACITAN JATIM
 110.54,-7.8,5,1.6,Pusat gempa di darat 15 km BaratDaya KLATEN-JATENG
 107.020867,-7.3,112,0.0,
 113.72,-7.98,9,2.2,Pusat gempa di darat 20 km BaratDaya BONDOWOSO-JATIM
 108.6,-7.65,123,3.3,Pusat gempa di darat 6 km BaratLaut PANGANDARAN-JABAR
+111.84,-8.94,10,3.5,Pusat gempa di laut 95 km BaratDaya TULUNGAGUNG-JATIM
+113.28,-8.63,77,2.8,Pusat gempa dilaut 61 Km Tenggara Lumajang - Jawa Timur
+110.22,-8.9,10,2.9,Pusat gempa di laut 106 km BaratDaya GUNUNGKIDUL-DIY
+111.58,-8.74,10,3.2,Pusat gempa di laut 74 km BaratDaya TRENGGALEK-JATIM
+110.66,-8.91,11,3.3,"Pusat gempa di laut, 95 km BaratDaya PACITAN-JATIM"
+108.59,-8.61,20,3.8,"Pusat gempa di laut, 103 km BaratDaya KAB-PANGANDARAN-JABAR"
 113.69,-8.0,4,2.7,Pusat gempa di darat 19 km BaratLaut JEMBER-JATIM
+111.44,-8.87,15,3.4,Pusat gempa di laut 85 km Tenggara Pacitan - Jawa Timur
 110.52,-7.83,10,2.1,"Pusat gempa di darat, 18 km TimurLaut BANTUL-DIY"
 113.8,-8.19,140,3.3,Pusat gempa di laut 11 km Tenggara JEMBER-JATIM
 111.89,-8.1,114,3.1,Pusat gempa di laut 8 km BaratDaya TULUNGAGUNG-JATIM
 112.8561144,-6.8,12,0.0,
+110.26,-8.59,10,4.0,Pusat gempa dilaut 73 km baratdaya Gunungkidul-DIY
 113.75,-8.01,10,2.5,Pusat gempa di darat 17 km BaratDaya BONDOWOSO-JATIM
 107.7281122,-7.4,12,0.0,
+108.55,-8.51,50,3.2,Pusat gempa di laut 92 km BaratDaya KAB-PANGANDARAN-JABAR
+112.46,-8.62,30,3.2,Pusat gempa di laut 50 km BaratDaya KAB-MALANG-JATIM
+111.36,-8.73,15,3.2,Pusat gempa di laut 67 km Tenggara PACITAN-JATIM
+110.63,-5.76,520,4.5,Pusat gempa di laut 90 km BaratLaut JEPARA-JATENG
 108.3684351,-6.9,10,0.0,
 110.69,-8.39,10,3.1,"Pusat gempa di laut, 40 km Tenggara GUNUNGKIDUL-DIY"
+111.04,-8.89,10,3.4,"
+	di laut 79 km BaratDaya PACITAN-JATIM
+"
+108.69,-8.62,10,3.1,"
+	Pusat gempa di laut 104 km Tenggara Kab. Pangandaran - JABAR
+"
 108.7695147,-7.3,12,0.0,
 109.07,-8.44,10,3.4,"
 	Pusat gempa di laut 82 km Tenggara CILACAP-JATENG
 "
+111.09,-8.87,10,3.0,"
+	Pusat gempa di laut 76 km BaratDaya PACITAN-JATIM
+"
 111.497454,-7.3,12,0.0,
+111.18,-8.91,10,3.9,"
+	Pusat gempa di laut 81 km Tenggara PACITAN-JATIM
+"
+110.45,-8.89,10,3.3,"
+	Pusat gempa di laut 97 km BaratDaya GUNUNGKIDUL-DIY
+"
+114.7523654,-7.9,20,0.0,
+113.29,-8.95,10,3.5,di laut 96 km Tenggara LUMAJANG-JATIM
+113.65,-8.91,10,4.0,Pusat gempa di laut 82 km BaratDaya JEMBER-JATIM
+110.55,-8.93,10,3.5,Dilaut 100 km BaratDaya GUNUNGKIDUL-DIY
 111.61,-8.42,109,3.5,Pusat gempa di laut 38 km Barat Daya Trenggalek - Jawa Timur
+111.51,-8.82,28,3.1,Pusat gempa di laut 84 km Barat Daya Trenggalek - Jawa Timur
+111.4,-8.8,16,3.1,Pusat gempa dilaut 76 km tenggara Pacitan-Jatim
+112.8,-8.98,23,3.1,"Pusat gempa di laut 82 km Tenggara KAB-MALANG-JATIM
+"
+111.21,-8.96,10,2.8,Pusat gempa dilaut 87 km tenggara Pacitan-Jatim
 113.19,-7.08,13,2.6,Pusat gempa di darat 11 km BaratLaut SAMPANG-JATIM
 109.02,-8.19,59,3.0,Pusat gempa di laut 54 km BaratDaya CILACAP-JATENG
 113.33,-7.18,18,2.8,Pusat gempa di darat 8 km Tenggara SAMPANG-JATIM
+111.01,-8.8,9,2.8,Pusat gempa di laut 69 km BaratDaya PACITAN-JATIM
 109.75,-8.27,109,2.8,"
 	Pusat gempa di laut 66 km BaratDaya PURWOREJO-JATENG
+"
+112.83,-8.85,30,2.9,"
+	Pusat gempa di laut 68 km Tenggara KAB-MALANG-JATIM
+"
+112.12,-8.92,30,3.4,"
+	Pusat gempa di laut 88 km BaratDaya KAB-BLITAR-JATIM
 "
 110.79,-8.48,17,2.8,"
 	Pusat gempa di laut 48 km BaratDaya PACITAN-JATIM
@@ -86,20 +204,45 @@ Longitude,Latitude,Kedalaman,Magnitude,Keterangan
 110.46,-8.05,10,2.7,"
 	Pusat gempa di darat 17 km BaratDaya GUNUNGKIDUL-DIY
 "
+111.3,-8.87,10,2.9,"
+	Pusat gempa di laut 79 km Tenggara PACITAN-JATIM
+"
+110.69,-8.88,10,4.0,"
+	Pusat gempa di laut 90 km BaratDaya PACITAN-JATIM
+"
+108.99,-8.61,78,3.3,"
+	Pusat gempa di laut101 km BaratDaya CILACAP-JATENG
+"
 112.48,-7.88,10,3.2,"
 	Pusat gempa didarat 5 km baratlaut Batu-Jatim
 "
 112.43,-8.37,6,3.2,"
 	Pusat gempa di darat 34 km BaratDaya KAB-MALANG-JATIM
 "
+114.5297383,-6.9,40,0.0,
+110.36,-8.68,25,3.4,"
+	Pusat gempa di laut, 77 km BaratDaya GUNUNGKIDUL-DIY
+"
+112.41,-8.71,20,2.7,"
+	Pusat gempa dilaut&nbsp; 62 km BaratDaya KAB-MALANG-JATIM
+"
 108.72,-7.4,10,3.0,"
 	Pusat gempa di darat 20 km Tenggara BANJAR-JABAR
+"
+111.25,-8.94,30,4.4,"
+	Pusat gempa di laut, 86 km Tenggara PACITAN-JATIM
 "
 110.18,-8.22,10,2.6,"
 	Pusat gempa dilaut 40 km baratdaya Bantul-DIY
 "
+112.37,-8.64,101,3.3,"
+	Pusat gempa di laut 58 km BaratDaya KAB-MALANG-JATIM
+"
 109.66,-7.22,10,4.2,"
 	di darat 19 km Tenggara KAB-PEKALONGAN-JATENG
+"
+111.42,-8.54,9,2.8,"
+	Pusat gempa di laut 53 km Tenggara PACITAN-JATIM
 "
 109.07,-8.33,26,3.2,"
 	Pusat gempa di laut 70 km Tenggara CILACAP-JATENG
@@ -107,11 +250,20 @@ Longitude,Latitude,Kedalaman,Magnitude,Keterangan
 109.62,-7.33,11,3.4,"
 	Pusat gempa di darat 14 km BaratLaut BANJARNEGARA-JATENG
 "
+113.62,-8.65,10,4.2,"
+	Pusata gempa dilaut&nbsp; 52 km Barat daya Jember Jatim
+"
+110.87,-8.56,24,2.6,"
+	Pusat gempa di laut 49 km BaratDaya PACITAN-JATIM
+"
 110.48,-8.03,10,2.5,"
 	Pusat gempa di darat 15 km Barat Laut Gunungkidul - DIY
 "
 110.31,-8.37,7,2.6,"
 	Pusat gempa di laut 50 km BaratDaya BANTUL-DIY
+"
+112.38,-8.82,30,3.0,"
+	Pusat gempa di laut 74 km BaratDaya KAB-MALANG-JATIM
 "
 111.61,-7.97,103,2.5,"
 	Pusat gempa di darat 17 km BaratLaut TRENGGALEK-JATIM
@@ -120,15 +272,30 @@ Longitude,Latitude,Kedalaman,Magnitude,Keterangan
 111.07,-6.42,12,4.3,"
 	Pusat gempa di laut 36 km TimurLaut PATI-JATENG dirasakan di Pati dan Jepara II SIG (II-III MMI)
 "
+111.85,-8.53,10,3.0,"
+	Pusat gempa di laut 50 km Tulungagung Jawa Timur
+"
 112.99,-7.37,12,2.6,"
 	Pusat gempa di laut 32 km timur laut kota Pasuruan Jawa Timur
+"
+111.46,-8.66,24,2.7,"
+	Pusat gempa di laut 66 km Tenggara PACITAN-JATIM
 "
 114.1351114,-6.9,50,0.0,
 113.32,-8.02,135,2.8,"
 	Pusat gempa di darat, 21 km TimurLaut LUMAJANG-JATIM
 "
+110.35,-8.66,35,3.0,"
+	Pusat gempa di laut 75 km BaratDaya GUNUNGKIDUL-DIY
+"
 111.91,-7.62,10,2.4,"
 	Pusat gempa di darat, 2 km Tenggara NGANJUK-JATIM
+"
+112.62,-8.99,18,3.2,"
+	Pusat gempa di laut 83 km BaratDaya KAB-MALANG-JATIM
+"
+110.28,-8.85,29,3.2,"
+	Pusat gempa di laut 98 km Barat Daya Gunungkidul - DIY
 "
 111.8980576,-6.5,52,0.0,
 109.68,-8.32,19,2.8,"
@@ -137,16 +304,49 @@ Longitude,Latitude,Kedalaman,Magnitude,Keterangan
 113.98,-7.91,10,2.1,"
 	Pusat gempa di darat 10 km TimurLaut BONDOWOSO-JATIM
 "
+111.99,-8.63,85,3.8,"
+	Pusat gempa di laut 59 km Tenggara TULUNGAGUNG-JATIM
+"
+113.71,-8.75,90,3.0,"
+	Pusat gempa di laut 64 km Tenggara JEMBER-JATIM
+"
+110.95,-8.98,20,3.4,"
+	Pusat gempa dilaut 90 km baratdaya Pacitan-Jatim
+"
+111.25,-8.67,14,2.7,"
+	Pusat gempa di laut 56 km Tenggara PACITAN-JATIM
+"
 111.29,-7.62,7,2.8,"
 	Pusat gempa di darat 6 km BaratLaut Magetan - Jawa Timur
 "
+112.54,-8.85,40,3.9,"
+	Pusat gempa di laut 70 km BaratDaya Malang - Jawatimur
+"
+111.21,-8.93,10,3.3,"
+	Pusat gempa berada di laut 84 km Tenggara PACITAN-JATIM
+"
+112.51,-8.88,91,3.6,"
+	Pusat gempa di laut 74 km BaratDaya KAB-MALANG-JATIM
+"
 113.78,-7.54,15,3.0,"
 	Pusat gempa di laut 30 km BaratLaut SITUBONO-JATIM
+"
+113.36,-8.79,71,3.4,"
+	Pusat gempa di laut 78 km BaratDaya JEMBER-JATIM
 "
 113.98,-6.91,19,4.9,"
 	Pusat gempa berada di darat 8 km TimurLaut SUMENEP-JATIM
 "
 112.54,-7.82,4,2.8,"Pusat gempa di darat, 7 km TimurLaut BATU-JATIM"
+110.24,-8.92,10,4.1,"
+	Pusat gempa di laut 107 km BaratDaya GUNUNGKIDUL-DIY
+"
+110.73,-8.97,10,3.1,"
+	Pusat gempa di laut 97 Km Barat Daya Pacitan - Jawa Timur
+"
+113.24,-8.64,10,3.4,"
+	Pusat gempa di laut 61 km Tenggara LUMAJANG-JATIM
+"
 107.335292,-7.3,62,0.0,
 111.64,-8.42,99,3.4,"
 	Pusat gempa di laut 37 km BaratDaya TRENGGALEK-JATIM
@@ -154,8 +354,23 @@ Longitude,Latitude,Kedalaman,Magnitude,Keterangan
 109.78,-7.28,335,3.8,"
 	Pusat gempa di darat 7 km TimurLaut BANJARNEGARA-JATENG
 "
+109.14,-8.55,6,3.2,"
+	Pusat gempa di laut 95 km Tenggara Cilacap - Jawa Tengah
+"
+112.11,-8.87,27,4.2,"
+	Pusat gempa di laut 82 km Barat daya Kab Blitar Jatim
+"
+110.53,-8.56,23,2.9,"
+	Pusat gempa di laut 59 km barat daya Gunung kidul DIY
+"
 108.73,-8.37,40,3.6,"
 	Pusat gempa di laut 76 km Tenggara KAB-PANGANDARAN-JABAR
+"
+111.3,-8.93,10,2.8,"
+	86 km Tenggara PACITAN-JATIM
+"
+108.91,-8.65,20,3.3,"
+	Pusat gempa di laut 106 km BaratDaya Cilacap - Jateng
 "
 111.53,-7.54,10,2.2,"
 	Pusat gempa di laut 10 km Utara KOTA-MADIUN-JATIM
@@ -163,8 +378,32 @@ Longitude,Latitude,Kedalaman,Magnitude,Keterangan
 108.62,-8.15,72,3.7,"
 	Pusat gempa d laut 51 km Barat daya Kab Pangandaran Jabar
 "
+110.2,-8.67,50,2.9,"
+	Pusat gempa di laut 84 km barat daya Gunungkidul DIY
+"
+112.52,-8.77,112,4.0,"
+	Pusat gempa di laut 62 km BaratDaya KAB-MALANG-JATIM
+"
+110.56,-8.97,10,4.0,"
+	Pusat gempa di laut 104 km BaratDaya GUNUNGKIDUL-DIY
+"
+112.36,-8.86,77,3.6,"
+	Info Gempa Mag:3.6 SR, 09-Jul-18 13:10:27 WIB, Lok:8.86 LS,112.36 BT (79 km BaratDaya KAB-MALANG-JATIM), Kedlmn:77 Km ::BMKG-PGR VII
+"
+111.37,-8.63,37,3.4,"
+	Pusat gempa di laut 58 km Tenggara PACITAN-JATIM
+"
+110.9,-8.78,25,3.0,"
+	Pusat gempa di laut 70 km BaratDaya PACITAN-JATIM
+"
+111.26,-8.84,30,3.1,"
+	Pusat gempa dilaut 75 km tenggara Pacitan-Jatim
+"
 111.07,-7.86,24,2.6,"
 	Pusat gempa didarat 3 km TimurLuat WONOGIRI-JATENG
+"
+110.47,-8.92,10,2.9,"
+	Pusat gempa di laut 100 km BaratDaya GUNUNGKIDUL-DIY
 "
 110.63,-8.26,112,3.4,"
 	Pusat gempa berada di laut 25 km Tenggara GUNUNGKIDUL-DIY
@@ -175,6 +414,22 @@ Longitude,Latitude,Kedalaman,Magnitude,Keterangan
 108.97,-8.35,20,3.1,"
 	Pusat gempa di laut 72 km Barat daya Cilacap Jateng
 "
+112.168117,-6.0,80,0.0,
+110.79,-8.79,52,3.5,"
+	Pusat gempa di laut 76 km BaratDaya PACITAN-JATIM
+"
+110.8,-8.8,70,2.8,"
+	Pusat gempa dilaut 76 km BaratDaya Pacitan - Jawa Timur
+"
+112.49,-8.82,46,4.4,"
+	Pusat gempa di laut 68 km BaratDaya Malang - Jawa Timur
+"
+111.18,-8.64,16,3.3,"
+	Pusat gempa di laut 51 km Tenggara PACITAN-JATIM
+"
+113.04,-8.84,15,3.7,"
+	di laut 75 km Tenggara KAB-MALANG-JATIM
+"
 108.96,-8.33,20,4.4,"
 	Pusat gempa di laut, 70 km BaratDaya CILACAP-JATENG
 "
@@ -184,6 +439,9 @@ Longitude,Latitude,Kedalaman,Magnitude,Keterangan
 109.89,-8.14,10,2.8,"
 	Pusat gempa di laut 46 km BaratDaya KULONPROGO-DIY
 "
+110.25,-8.9,10,3.7,"
+	Pusat gempa dilaut104 km BaratDaya Gunungkidul - DI Yogyakarta
+"
 110.58,-8.3,114,2.9,"
 	Pusat gempa di laut 30 km BaratDaya GunungKidul-DIY
 "
@@ -191,12 +449,46 @@ Longitude,Latitude,Kedalaman,Magnitude,Keterangan
 112.86,-8.16,128,3.4,"
 	Pusat gempa di darat 18 km TimurLaut KAb-MALANG-JATIM
 "
+111.69,-8.88,30,3.9,"
+	Pusat gempa di laut, 88 km BaratDaya TRENGGALEK-JATIM
+"
+112.41,-8.96,30,3.1,"
+	Pusat gempa dilaut 86 km BaratDaya KAB-MALANG-JATIM
+	&nbsp;
+"
+109.37,-8.61,28,3.3,"
+	Pusat gempa di laut 108 km Tenggara CILACAP-JATENG
+"
+111.98,-8.5,90,4.1,"
+	Pusat gempa di laut 45 km Tenggara TULUNGAGUNG-JATIM
+"
 109.72,-8.32,72,3.2,"
 	Pusat gempa di laut 72 km Tenggara KEBUMEN-JATENG
 "
+111.47,-8.58,107,3.9,"
+	Pusat gempa di laut, 60 km Tenggara PACITAN-JATIM
+"
+109.9,-8.79,12,4.2,"
+	Pusat gempa di laut, 110 km BaratDaya BANTUL-DIY
+"
+111.0,-8.79,10,2.7,"
+	Pusat gempa di laut 68 km Barat daya Pacitan Jatim
+"
+109.02,-8.82,10,3.6,"
+	Pusat gempa di laut 124 km Barat daya Cilacap Jateng
+"
+108.56,-8.99,20,3.5,"
+	Pusat gempa di laut 145 km BaratDaya KAB-PANGANDARAN-JABAR
+"
 111.5799248,-6.6,92,0.0,
+112.23,-8.75,29,3.2,"
+	Pusat gempa di laut 68 km Tenggara KAB-BLITAR-JATIM
+"
 110.04,-8.38,60,2.7,"
 	Pusat gempa di laut 62 km BaratDaya KULONPROGO-DIY
+"
+110.3,-8.88,11,3.4,"
+	Pusat gempa di laut 100 km Barat Daya Gunungkidul - DIY
 "
 108.85,-8.38,40,3.9,"
 	Pusat gempa di laut, 78 km BaratDaya CILACAP-JATENG
@@ -208,24 +500,63 @@ Longitude,Latitude,Kedalaman,Magnitude,Keterangan
 	Pusat gempa di laut 95 km TimurLaut BANGKALAN-JATIM
 "
 112.8582538,-6.3,10,0.0,
+108.63,-8.5,52,3.3,"
+	Pusat gempa di laut 90 km BaratDaya KAB-PANGANDARAN-JABAR
+"
+110.32,-8.86,20,3.2,"
+	Pusat gempa di Laut 97 km BaratDaya GUNUNGKIDUL-DIY
+"
 113.51,-7.56,10,3.3,"
 	Pusat gempa di laut 34 km timur laut Kab. Probolinggo Jatim
 "
 113.7501384,-6.6,10,0.0,
+110.29,-8.9,60,3.0,"
+	Pusat gempa di laut 103 km BaratDaya GUNUNGKIDUL-DIY
+"
 108.81,-8.32,28,2.5,"
 	Pusat gempa di laut 72 km Tenggara KAB-PANGANDARAN-JABAR
+"
+109.8,-8.96,10,3.2,"
+	Pusat gempa di laut 132 Km Barat Daya Bantul - DIY
 "
 109.01,-8.31,27,2.9,"
 	Pusat gempa di laut 68 km BaratDaya CILACAP-JATENG
 "
+111.31,-8.65,20,3.3,"
+	Pusat gempa di laut 57 km Tenggara PACITAN-JATIM
+"
 113.87,-8.14,10,3.0,"
 	Pusat gempa di darat 19 km BaratDaya BONDOWOSO-JATIM
+"
+110.33,-8.86,15,3.2,"
+	Pusat gempa di laut 97 km BaratDaya GUNUNGKIDUL-DIY
+"
+109.04,-8.57,10,2.9,"
+	Pusat gempa di laut 96 km Tenggara Cilacap - Jawa Tengah
+"
+112.28,-8.79,36,3.0,"
+	Pusat gempa di laut 73 km Tenggara KAB-BLITAR-JATIM
+"
+111.19,-8.8,10,3.0,"
+	Pusat gempa di laut 69 km Tenggara Pacitan-Jatim
+"
+112.58,-8.62,102,2.9,"
+	Pusat gempa di laut, 44 km BaratDaya KAB-MALANG-JATIM
+"
+112.11,-8.82,27,2.6,"
+	Pusat gempa di laut, 77 km BaratDaya KAB-BLITAR-JATIM
 "
 108.73,-8.37,32,2.8,"
 	Pusat gempa di laut 76 km Tenggara KAB-PANGANDARAN-JABAR
 "
+112.42,-8.92,25,3.2,"
+	Pusat gempa di laut 82 km BaratDaya KAB-MALANG-JATIM
+"
 111.53,-7.82,11,2.5,"
 	Pusat gempa di darat 8 km TimurLaut Ponorogo Jatim
+"
+109.94,-8.96,23,4.1,"
+	Pusat gempa di laut 125 km BaratDaya BANTUL-DIY
 "
 109.31,-8.39,28,2.6,"
 	pusat gempa di laut 83 km Tenggara CILACAP-JATENG
@@ -233,12 +564,31 @@ Longitude,Latitude,Kedalaman,Magnitude,Keterangan
 110.71,-8.44,10,2.8,"
 	Pusat gempa di laut, 46 km Tenggara GUNUNGKIDUL-DIY
 "
+110.77,-8.59,9,3.3,"
+	Pusat gempa di laut, 58 km BaratDaya PACITAN-JATIM
+"
+110.23,-8.81,28,3.2,"
+	Pusat gempa di laut 96 km BaratDaya GUNUNGKIDUL-DIY
+"
+109.79,-8.6,16,3.7,"
+	Pusat gempa di laut 95 km BaratDaya KULONPROGO-DIY
+"
+111.25,-8.75,39,3.1,"
+	Pusat gempa di laut 65 km Tenggara Pacitan Jatim
+"
+112.12,-8.81,30,3.1,"
+	Pusat gempa dilaut 76 km Barat Daya Bitar Jawa Timur
+"
+110.59,-8.96,10,3.0,"
+	Pusat gempa di Laut&nbsp; 103 km BaratDaya Gunung Kidul - D.I Yogyakarta
+"
 108.93,-8.24,49,2.7,"
 	Pusat gempa di laut 61 km BaratDaya CILACAP-JATENG
 "
 108.88,-8.46,11,2.7,"
 	Pusat gempa di laut 86 km BaratDaya CILACAP-JATENG
 "
+108.6132332,-5.9,12,0.0,
 109.2,-8.44,40,3.8,"
 	Pusat gempa di laut 83 km Tenggara Cilacap Jateng
 "
@@ -247,89 +597,207 @@ Longitude,Latitude,Kedalaman,Magnitude,Keterangan
 	Pusat gempa dilaut 73 km Barat Daya Cilacap Jateng
 "
 111.08,-8.47,10,2.9,Pusat Gempa dilaut 32 km Barat Daya PACITAN-JATIM
+111.38,-8.83,10,3.6,"
+	Pusat gempa di laut 78 km Tenggara PACITAN-JATIM
+"
+110.9,-8.83,10,2.9,"
+	Pusat gempa di laut 75 km Barat daya Pacitan Jatim
+"
+112.76,-8.98,10,3.3,"Pusat gempa (105 km Tenggara Malang-JATIM
+"
+111.92,-8.73,184,3.5,	Pusat gempa di laut 71 km Barat Daya TULUNGAGUNG-JATIM
+112.38,-8.85,89,3.4,"	Pusat gempa di laut, 77 km BaratDaya KAB-MALANG-JATIM"
 109.09,-8.32,11,4.5,"	Pusat gempa di laut 69 km Tenggara CILACAP-JTENG.dirasakan di Pangandaran, Cilacap I-II MMI "
+111.67,-8.85,10,3.0,Pusat gempa 	di laut 85 km BaratDaya TRENGGALEK-JATIM
+113.61,-8.7,79,3.7,	Pusat gempa di laut 59 km BaratDaya JEMBER-JATIM
+111.77,-8.74,30,2.7,	Pusat gempa dilaut 72 km tenggara Trenggalek-Jatim
 111.99,-7.86,9,2.1,"	Pusat gempa di darat, 3 km BaratDaya KOTA-KEDIRI-JATIM"
+110.77,-8.87,17,2.8,	Pusat gempa di laut 85 km BD Pacitan
+108.86,-8.77,10,3.3,	Psat gempa di laut 120 km Barat Daya Cilacap - Jateng
+112.75,-8.92,11,3.4,	Pusat gempa di laut 75 km Tenggara KAB-MALANG-JATIM
+114.8430958,-6.6,12,0.0,
+111.32,-8.59,106,3.9,	Pusat gempa dilaut 51 km tenggara Pacitan - Jatim
+112.23,-8.53,104,3.3,	Pusat gempa dilaut 44 km tengara Kab. Blitar-Jatim
 109.46,-7.23,18,2.5,	Pusat gempa di darat 9 km TimurLaut PURBALINGGA-JATEN
+111.57,-8.85,23,3.1,	Pusat gempa di laut 65 km BaratDaya Trenggalek Jatim
+113.01,-8.58,99,3.2,	Pusat gempa di laut 49 km Tenggara KAB-MALANG-JATIM
 110.75,-7.93,25,2.2,	Pusat gempa didarat 18 km timur laut Gunungkidul-DIY
+108.71,-8.52,25,3.6,	Pusat gempa di laut 93 km Tenggara KAB-PANGANDARAN-JABAR
 112.8851937,-7.4,22,0.0,
+112.54,-8.87,20,3.1,"	Pusat gempa di laut, 72 km BaratDaya KAB-MALANG-JATIM"
 109.31,-6.65,11,2.7,	pusat gempa di laut 30 km BaratLaut PEMALANG-JATENG
 107.9439739,-6.9,22,0.0,
 110.96,-7.76,10,2.4,	Pusat gempa didarat 16 km BaratLaut WONOGIRI-JATENG
 109.17,-8.39,30,4.0,"	Pusat gempa di laut, 78 km Tenggara CILACAP-JATENG"
+110.29,-8.7,31,3.0,	Pusat gempa dilaut 82 km BaratDaya GUNUNGKIDUL-DIY
+109.24,-8.69,10,2.9,	Pusat gempa di laut 112 km Tenggara CILACAP-JATENG
+110.17,-5.78,570,4.9,	Pusat gempa dilaut 104 km BaratLaut JEPARA-JATENG
+112.74,-8.68,15,3.2,	Pusat gempa di laut 48 km Tenggara KAB-MALANG-JATIM
+112.14,-8.96,10,3.9,"	Pusat gempa di laut, 92 km BaratDaya KAB-BLITAR-JATIM"
 111.93,-7.87,5,3.5,"Pusat gempa didarat 10 km BaratDaya KOTA-KEDIRI-JATIM di rasakan di Sawahan, Loceret dan Ngetor (Kab. Nganjuk) I-II MMI"
 110.11,-8.24,10,2.5,	Pusat gempa di laut 46 km BaratDaya BANTUL-DIY
+112.52,-8.87,10,3.1,	Pusat gempa dilaut 81 km baratdaya Kab. Malang-Jatim
 107.5803459,-6.2,32,0.0,
+111.16,-8.88,10,2.8,	Pusat gempa dilaut 78 km tenggara Pacitan-Jatim
+112.33,-8.98,10,2.7,	Pusat gempa dilaut 95 km Tenggara KAB-BLITAR-JATIM
+111.01,-8.85,10,2.6,Pusat gempa di laut 75 km BaratDaya PACITAN-JATIM
+113.68,-8.93,10,2.2,	Pusat gempa di laut 81 km Tenggara JEMBER-JATIM
+110.27,-8.81,26,3.1,	Pusat gempa di laut 98 km BaratDaya GUNUNGKIDUL-DIY
 108.8,-7.99,75,2.8,	Pusat gempa di laut 37 Km Barat Daya Cilacap - Jawa Tengah
 110.7,-7.63,10,2.4,	Pusat gempa di darat 13 km Tenggara BOYOLALI-JATENG
+112.11,-8.79,26,2.9,"	Pusat gempa di laut, 73 km BaratDaya KAB-BLITAR-JATIM"
+111.69,-8.63,21,2.6,"	Pusat gempa di laut, 60 km BaratDaya TRENGGALEK-JATIM"
+109.73,-8.6,5,3.0,	Pusat gempa di laut 99 km BaratDaya Kulonpogo
+109.72,-8.51,27,2.8,	Pusat gempa di laut 91 km BaratDaya KULONPROGO-DIY
 110.08,-8.26,84,3.1,	Pusat gempa di laut 50 km BaratDaya BANTUL-DIY
 111.6,-7.34,8,2.9,"	Pusat gempa di darat, 18 km TimurLaut NGAWI-JATIM"
+109.84,-8.79,10,2.7,"	Pusat gempa di laut, 113 km BaratDaya BANTUL-DIY"
+111.11,-8.61,10,2.6,	Pusat gempa dilaut 47 km Tenggara Pacitan Jawa Timur
+113.3,-8.74,116,2.7,	Pusat gempa dilaut 67 km Tenggara LUMAJANG-JATIM
+108.1110332,-5.7,50,0.0,
 109.75,-8.28,94,2.9,	Pusat gempa di laut 68 km Tenggara KEBUMEN-JATENG
 110.8239886,-7.3,50,0.0,
 108.67,-8.23,68,3.2,	Pusat gempa di laut 61 km Tenggara KAB-PANGANDARAN-JABAR
+109.68,-8.78,16,2.9,	Pusat gempa dilaut 119 km BaratDaya Kulonprogo - DIY
 109.03,-7.99,79,2.9,	Pusat gempa dilaut 29 km Tenggara CILACAP-JATENG
+111.82,-8.91,27,3.7,	Pusat gempa dilaut 92 km tenggara Trenggalek-Jatim
 110.56,-8.12,128,2.4,	Pusat gempa di laut 20 km BaratDaya Gunung Kidul
+112.48,-8.87,10,4.9,	pusat gempa di laut 82 km Barat daya Kab. Malang Jatim
+107.2824069,-5.7,52,0.0,
 112.58,-6.66,10,3.3,	pusat gempa di laut 54 km TimurLaut LAMONGAN-JATIM
 110.78,-6.69,10,4.2,"	Pusat gempa di darat 14 km BaratLaut Kudus-Jateng. Dirasakan di Kudus, Demak dan Jepara II-III MMI"
 113.38,-8.28,157,4.1,	Pusat gempa di darat 23 km Tenggara LUMAJANG-JATIM
+109.93,-8.59,116,2.9,	Pusat gempa di laut 89 km BaratDaya bantul D.I.Yogyakarta
 107.2031178,-6.7,52,0.0,
+108.53,-8.7,45,4.5,"	Pusat gempa di laut, 110 km Tenggara Kab. pangandaran Jabar"
 112.82,-8.46,119,3.1,	pusat gema di laut 45 km tenggara Kab. Malang Jatim
 109.04,-8.35,37,3.2, pusat gempa di laut 69 km Tenggara CIlacap Jateng
+111.32,-8.55,88,3.0,	Pusat gempa di laut 47 km Tenggara PACITAN-JATIM
+111.06,-8.55,70,2.6,	Pusat gempa di laut 41 km BaratDaya PACITAN-JATIM
 108.6,-7.34,76,3.6,	Pusat gempa di darat 39 km tenggara Kab. Sukabumi Jabar
+111.01,-8.99,53,3.1,	Pusat gempa dilaut 90 km BaratDaya PACITAN-JATIM
 109.8050037,-6.3,60,0.0,
+112.6,-8.81,30,3.0,	Pusat gempa di laut 74 km Tenggara KAB-MALANG-JATIM
+112.49,-8.87,30,3.5,"	Pusat gempa di laut, 81 km BaratDaya KAB-MALANG-JATIM"
 109.23,-8.33,10,3.1,	71 km Tenggara Cilacap - Jawa Tengah
+110.99,-8.91,20,3.0,	Pusat gempa di laut 82 km BaratDaya PACITAN-JATIM
 108.69,-8.42,29,5.1," Pusat gempa di laut, 82 km Tenggara KAB-PANGANDARAN-JABAR"
+110.27,-5.8,529,4.9,	Pusat gempa dilaut 98 Km Barat Laut Jepara - Jateng
 108.83,-8.49,12,5.1,"Pusat gempa di laut, 87 km BaratDaya CILACAP-JATENG"
+108.93,-8.51,10,2.9,	Pusat gempa di laut 87 km BaratDaya CILACAP-JATENG
 113.05,-8.36,145,3.5,	Pusat gempa di laut 32 km BaratDaya Lumajang-Jatim
+110.25,-8.98,10,3.7,	Pusat gempa dilaut 116 km BaratDaya GUNUNGKIDUL-DIY
 113.17,-7.46,6,3.2,	Pusat gempa di laut 33 km BaratDaya SAMPANG-JATIM
+110.52,-8.59,10,3.1,	Pusat gempa di laut 67 km BaratDaya GUNUNGKIDUL-DIY
+112.31,-8.95,10,3.4,Pusat gempa di laut 91 km Tenggara KAB-BLITAR-JATIM
+111.02,-8.95,10,3.0,"Pusat gempa di laut, 86 km BaratDaya PACITAN-JATIM"
+110.64,-8.67,9,2.7,	Pusat gempa di laut 75 km BaratDaya PACITAN-JATIM
+110.35,-8.68,10,2.8,	Pusat gempa dilaut 81 km BaratDaya GUNUNGKIDUL-DIY
+110.9,-8.74,18,3.0,	Pusat gempa di laut 66 km BaratDaya PACITAN-JATIM
+110.45,-8.76,12,3.0,"Pusat gempa di laut, 86 km BaratDaya GUNUNGKIDUL-DIY"
+110.55,-8.91,20,3.4,	Pusat gempa di laut 177 km BaratDaya PACITAN-JATIM
+112.8,-8.83,30,3.1,	Pusat gempa di laut 113 km tenggara Malang-Jatim
+111.9,-8.93,10,4.5,	Pusat gempa di laut 246 km Tenggara KAB-MALANG-JATIM
 108.75,-8.33,70,2.7,	239 KM BaratDaya lumajang - Jawa Timur
+108.87,-8.5,22,3.1,"	Pusat gempa di laut, 87 km BaratDaya CILACAP-JATENG"
 111.6,-7.68,5,2.8,	Pusat gempa di darat 8 km BaratDaya KAB-MADIUN-JATIM
 111.82,-7.56,30,2.5,	pusat gempa di darat 10 km Baratlaut NGANJUK- JATIM
+109.07,-8.53,93,3.8,	Pusat gempa dilaut 89 km Tenggara CILACAP-JATENG
 113.8974974,-7.9,80,0.0,
+111.76,-8.88,27,3.6,	Pusat gempa dilaut 88 km tenggara TRENGGALEK-JATIM
+110.62,-8.92,10,3.1,	Pusat gempa di laut 98 km BaratDaya PACITAN-JATIM
 109.77,-8.47,30,3.5,	Pusat gempa di laut 84 km BaratDaya KULONPROGO-DIY
+110.39,-8.84,9,3.2,Pusat gempa di laut 97 Km Barat Daya GUNUNGKIDUL - DIY
 110.8317416,-6.2,82,0.0,
+111.91,-8.96,35,3.4,	Pusat gempa di laut 97 km BaratDaya KAB-BLITAR-JATIM
 106.2860957,-7.7,82,0.0,
 108.99,-8.41,29,3.2,	Pusat gempa di laut 76 km BaratDaya CILACAP-JATENG
+112.49,-8.83,10,4.3,"Pusat gempa di laut, 77 km BaratDaya KAB-MALANG-JATIM, dirasakan di MALANG, BLITAR, TRENGGALEK, TULUNGAGUNG II-III MMI"
 110.93,-8.39,10,2.6,	Pusat gempa di laut 30 km BaratDaya PACITAN-JATIM
 108.3570751,-7.6,82,0.0,
 109.06,-8.4,24,3.2,"Pusat gempa di laut, 75 km Tenggara CILACAP-JATENG"
+108.94,-8.56,53,4.1,	Pusat gempa di laut 92 km BaratDaya CILACAP-JATENG
 109.22,-8.24,36,2.7,	Pusat gempa di laut 61 km Tenggara CILACAP-JATENG
+111.01,-8.71,10,2.8,	Pusat gempa di laut 97 km BaratDaya BANTUL-DIY
 112.12,-7.84,22,2.7,	Pusat gempa di darat 8 km Barat daya Kab. Kediri Jatim
 111.93,-8.06,143,3.7,"Pusat gempa di laut, 3 km TimurLaut TULUNGAGUNG-JATIM"
+110.98,-8.57,10,2.8,"	Pusat gempa di laut, 45 km BaratDaya PACITAN-JATIM"
+110.24,-8.58,10,2.6,	Pusat gempa di laut 76 km BaratDaya BANTUL-DIY
+109.96,-8.7,10,3.0,	Pusat gempa di laut 98 km Barat daya Bantul DIY
+109.89,-8.77,10,2.9,	Pusat gempa dilaut 109 km BaratDaya BANTUL-DIY
 113.17,-7.87,10,2.7,	Pusat gempa di darat 11 km BaratDaya KOTA-PROBOLINGGO-JATIM
 109.29,-8.42,10,3.4,	Pusat gempa di laut 83 km Tenggara CILACAP-JATENG
+112.6,-8.9,60,3.2,	Pusat gempa di laut 84 km Tenggara KAB-MALANG-JATIM
+112.54,-8.78,10,3.8,"	Pusat gempa di laut 71 km baratdaya Malang-Jatim, dirasakan di Malang I-II MMI"
 111.72,-6.71,634,5.8,"	Pusat gempa di laut 40 km BaratLaut - Tuban Jawa Timu
 	dirasakan di Madura, Malang, Denpasar, Mataram, Lombok Barat, Lombok Tengah, Sumbawa, Bima III MMI, Cilacap, Purworejo, Yogyakarta, Lumajang, Tuban, Trenggalek, Surabaya II- III MMI, Bandung II MMI ::BMKG"
 111.62,-7.32,11,3.0,	Pusat gempa di darat&nbsp; 21&nbsp; km TimurLaut NGAWI-JATIM
+112.15,-8.81,31,3.6,	Pusat gempa di laut 75 km BaratDaya KAB-BLITAR-JATIM
+110.42,-8.82,55,2.7,	Pusat gempa di laut 94 km BaratDaya GUNUNGKIDUL-DIY
+109.44,-8.69,28,3.5,	Pusat gempa di laut 115 km BaratDaya KEBUMEN-JATENG
 108.55,-6.87,30,3.2,	Pusat gempa didarat 13 km TimurLaut KAB-KUNINGAN-JABAR
+108.64,-8.82,18,3.2,	Pusat gempa dilaut 125 Km Tenggara Pangandaran - Jawa Barat
 110.12,-7.74,124,2.5,Pusat gempa di darat 10 km BaratLaut KULONPROGO-DIY
 114.0358588,-6.6,102,0.0,
 110.46,-7.84,13,2.0,	Pusat gempa di darat 13 km Timur Laut Kab. Bantul DIY
+110.52,-8.98,86,3.8,	Pusat gempa di laut 110 km BaratDaya GUNUNGKIDUL-DIY
+110.48,-8.8,11,3.8,	Pusat gempa di laut 90 km BaratDaya GUNUNGKIDUL-DIY
 108.95,-8.48,25,3.1,	Pusat gempa dilaut 84 km BaratDaya Cilacap - Jawa Tengah
+110.19,-8.8,30,2.9,	Pusat gempa di laut 101 km BaratDaya BANTUL - DIY
+110.71,-8.55,26,2.7,	Pusat gempa di laut 60 km BaratDaya PACITAN-JATIM
 112.33,-8.16,10,2.7,	Pusat gempa di darat 13 Km Tenggara Blitar - Jawa Timur
+110.83,-8.58,33,2.9,	Pusat gempa di laut 54 km BaratDayaPACITAN -JATIM
 110.46,-8.02,10,2.1,"	Pusat gempa di darat, 17 km BaratDaya GUNUNGKIDUL-DIY"
+110.79,-8.62,10,2.6,	Pusat gempa di laut 60 km BaratDaya PACITAN-JATIM
+110.99,-8.69,12,2.7,	Pusat gempa di laut 85 km BaratDaya PACITAN-JATIM
 108.7,-8.06,45,4.0, Pusat gempa di laut 45 km Tenggara Kab-Pangandaran-Jabar
 110.64,-6.17,527,4.7,	Pusat gempa dilaut 46 km BaratLaut JEPARA-JATENG
 109.0,-8.43,32,3.2,"Pusat gempa di laut, 78 km BaratDaya CILACAP-JATENG"
 108.2,-8.24,10,4.8,Pusat gempa di laut 68 km BaratDaya KAB-PANGANDARAN-JABAR
+112.6,-8.8,12,3.1,	Pusat gempa di laut 73 km Tenggara KAB-MALANG-JATIM
+110.63,-8.7,10,2.7,	Pusat gempa di laut 78 km BaratDaya PACITAN-JATIM
 110.76,-8.42,16,2.2,	Pusat gempa di laut 46 km BaratDaya PACITAN-JATIM
 110.43,-8.06,10,1.6,	Pusat gempa didarat 19 km tenggara Bantul-DIY
 110.47,-8.0,10,1.8,	Pusat gempa di darat 15 km BaratDaya GUNUNGKIDUL-DIY
+110.54,-8.98,10,2.9,	Pusat gempa di lau 108 km BaratDaya PACITAN-JATIM
 113.09,-8.13,5,2.5,	Pusat gempa di darat 51 km Barat Laut Lumajang - Jawa Timur
+110.82,-8.97,64,3.4,	Pusat gempa di laut 93 km BaratDaya PACITAN-JATIM
 113.03,-7.41,16,3.4,	Pusat gempa di laut 30 km TimurLaut KOTA-PASURUAN-JATIM
 109.19,-8.46,30,2.9,	pusat gempa dilaut 84 km tenggara Cilacap-Jateng
+111.76,-8.87,36,3.1,	Pusat gempa dilaut 87 km Tenggara Trenggalek - Jawa Timur
 110.57,-7.81,7,1.7,	Pusat gempa di darat 11 km BaratDaya Klaten - Jawa Tengah
 109.2,-7.83,10,2.3,	Pusat gempa di laut 24 km Tenggara CILACAP-JATENG
 109.65,-7.85,106,3.1,"Pusat gempa di laut, 20 km Selatan KEBUMEN-JATENG"
+110.66,-8.87,10,3.0,	Pusat gempa dilaut 91 km baratdaya Pacitan-Jatim
+110.03,-8.92,10,3.2,"	Pusat gempa di laut 118 km BaratDaya BANTUL-DIY, dirasakan di Pleret Bantul II MMI"
+110.53,-8.9,19,3.3,	Pusat gempa di laut 101 km BaratDaya GUNUNGKIDUL-DIY
+110.42,-8.74,28,3.2,	Pusat gempa di laut 85 km BaratDaya GUNUNGKIDUL-DIY
 110.5117165,-6.2,122,0.0,
+110.25,-8.91,10,3.0,	Pusat gempa dilaut 109 km baratdaya Gunungkidul-DIY
+110.27,-8.89,11,3.3,	Pusat gempa dilaut 106 km baratdaya Gunungkidul-DIY
+110.24,-8.91,10,3.2,	Pusat gempa dilaut 109 km BaratDaya GunungKidul - DIY
+111.82,-8.69,18,2.9,	Pusat gempa dilaut 68 km Tenggara TRENGGALEK-JATIM
+110.73,-8.83,10,3.3, Pusat gempa dilaut 83 km BaratDaya PACITAN-JATIM
 109.08,-8.31,27,3.1,	Pusat gempa di laut 65 km Tenggara CILACAP-JATENG
+111.64,-8.8,29,2.8,	Pusat gempa dilaut 79 km BaratDaya TRENGGALEK-JATIM
 111.3,-6.89,16,2.8, Pusat gempa didarat 15 km BaratLaut BLORA-JATENG
 113.18,-8.0,6,2.9,	Pusat gempa didarat 15 km BaratLaut LUMAJANG-JATIM
+112.85,-8.95,9,2.6,	Pusat gempa di laut 95 km Tenggara KAB-MALANG-JATIM
 111.3,-6.87,13,3.6,	Pusat gempa di darat 16 km BaratLaut BLORA-JATENG
+113.06,-8.9,93,2.9,"
+	Pusat gempa di laut 87 km BaratDaya LUMAJANG-JATIM
+
+	&nbsp;
+"
 110.64,-8.2,79,3.0,"
 	Pusat gempa di laut 23 km Tenggara GUNUNGKIDUL-DIY
 "
+110.39,-8.93,51,3.3,"Pusat gempa di laut, 106 km BaratDaya GUNUNGKIDUL-DIY"
 111.41,-7.65,33,2.6,"
 	Pusat gempa di darat 8 km Tenggara MAGETAN-JATIM
+"
+113.88,-8.55,93,3.3,"
+	Pusat gempa didarat, 47 km Tenggara Jember Jatim
 "
 110.76,-8.25,55,2.9,"Pusat gempa di laut, 32 km Tenggara GUNUNGKIDUL-DIY"
 106.3071271,-7.3,12,0.0,
@@ -342,11 +810,20 @@ Longitude,Latitude,Kedalaman,Magnitude,Keterangan
 110.6,-8.32,117,2.6,"
 	Pusat gempa di laut 36 km BaratDaya GUNUNGKIDUL-DIY
 "
+111.37,-8.77,37,2.7,"
+	Pusat gempa di laut 71 km Tenggara PACITAN-JATIM
+"
 110.29,-8.37,7,2.5,"
 	Pusat gempa di laut, 52 km BaratDaya BANTUL-DIY
 "
+110.32,-8.86,10,2.6,"
+	Pusat gempa dilaut 101 km BaratDaya GUNUNGKIDUL-DIY
+"
 110.55,-8.01,5,2.5,"
 	Pusat gempa di darat 7 km BaratDaya Gunung Kidul-DIY
+"
+110.43,-8.8,4,3.0,"
+	Pusat gempa di laut, 91 km BaratDaya GUNUNGKIDUL-DIY
 "
 111.17,-8.3,101,3.4,"Pusat gempa di laut,15 km Tenggara PACITAN-JATIM"
 112.01,-7.77,5,2.6,"
@@ -355,6 +832,7 @@ Longitude,Latitude,Kedalaman,Magnitude,Keterangan
 111.98,-7.83,5,2.5,"
 	Pusat gempa di darat 4 km BaratLaut Kota Kediri-Jatim
 "
+106.2222701,-6.0,20,0.0,
 111.59,-7.68,265,2.9,"
 	Pusat gempa di darat 8 km Baratdaya kab Madiun - JATIM
 "
@@ -373,19 +851,44 @@ Longitude,Latitude,Kedalaman,Magnitude,Keterangan
 
 	&nbsp;
 "
+108.95,-8.66,40,3.6,"
+	Pusat gempa di laut 109 KM BaratDaya Cilacap-Jateng
+"
 109.0,-7.5,214,3.7,"
 	Pusat gempa didarat 25 km BaratLaut CILACAP-JATENG
 "
 111.78,-6.87,25,2.9,"
 	Pusat gempa di darat 27 km BaratLaut TUBAN-JATIM
 "
+108.98,-8.62,20,3.4,"
+	Pusat gempa dilaut 99 km BaratDaya CILACAP-JATENG
+"
+110.36,-8.67,25,3.2,"
+	Di laut 80 Km Barat Daya Gunung Kidul - DIY
+"
+110.3,-8.65,30,2.6,"
+	Pusat gempa di laut 80 km BaratDaya GUNUNGKIDUL-DIY
+"
 110.44,-8.04,5,1.9,"
 	Pusat gempa di darat, 18 km Tenggara BANTUL-DIY
 "
+110.28,-8.84,10,2.9,"
+	Pusat gempa dilaut 100 km BaratDaya GUNUNGKIDUL-DIY
+"
+111.26,-8.93,14,3.0,"
+	Pusat gempa di laut 85 km Tenggara PACITAN JATIM
+"
+114.6005532,-7.1,30,0.0,
 111.29,-8.26,12,2.0,"
 	Pusat gempa di darat 22 km Tenggara PACITAN-JATIM
 "
+110.91,-8.91,56,3.6,"
+	Pusat gempa di laut 84 km BaratDaya Pacitan-Jatim
+"
 108.0877222,-6.2,32,0.0,
+110.46,-8.97,10,3.2,"
+	Pusat gempa di laut, 82 km BaratDaya Pacitan Jatim
+"
 110.67,-8.4,12,2.7,"
 	Pusat gempa di laut 45 km Tenggara gunungkidul-DIY
 "
@@ -399,14 +902,26 @@ Longitude,Latitude,Kedalaman,Magnitude,Keterangan
 113.85,-6.89,13,2.9,"
 	Pusat gempa di darat 7 km Barat Laut Sumenep Jawa Timur dirasakan II MMI di Sumenep - Madura
 "
+110.76,-8.52,65,3.0,"
+	Pusat gempa di laut 53 km BaratDaya Pacitan - Jatim&nbsp;
+"
 111.1,-8.45,106,3.3,"
 	Pusat gempa di laut, 30 km BaratDaya PACITAN-JATIM
 "
 110.41,-7.97,7,2.2,"
 	Pusat gempa di darat 9 km Tenggara Bantul DIY
 "
+112.51,-8.82,40,4.3,"
+	Pusat gempa di laut 76 km BaratDaya KAB-MALANG-JATIM dirasakan di&nbsp; Kepanjen - Malang II-III MMI, Trenggalek, Tulungagung, Krangkates,&nbsp; II MMI
+"
+111.35,-8.88,10,4.4,"
+	Pusat gempa di laut 82 km Tenggara Pacitan Jatim
+"
 113.6,-8.45,134,2.9,"
 	Pusat gempa di laut 28 km BaratDaya JEMBER-JATIM
+"
+110.68,-8.86,28,3.2,"
+	Pusat gempa di laut, 89 km BaratDaya PACITAN-JATIM
 "
 109.034566,-6.6,42,0.0,
 109.09,-8.22,26,3.2,"
@@ -418,6 +933,12 @@ Longitude,Latitude,Kedalaman,Magnitude,Keterangan
 108.52,-8.13,10,4.4,"
 	Pusat gempa di laut 47 km Tenggara Kab Pangandaran-Jabar
 "
+110.56,-8.97,60,3.2,"
+	Pusat gempa di laut, 107 km BaratDaya PACITAN - JATIM
+"
+110.09,-8.75,24,3.4,"
+	Pusat gempa di laut 98 km BaratDaya Bantul-DIY
+"
 110.53719,-7.868,13,2.8,"Pusat gempa didarat, 16 km BaratLaut GUNUNGKIDUL-DIY"
 109.05298,-8.405,15,3.2,"
 	Pusat gempa di laut 75 km tenggara Cilacap-Jateng
@@ -425,9 +946,22 @@ Longitude,Latitude,Kedalaman,Magnitude,Keterangan
 110.4,-8.21,46,3.3,"
 	Pusat gempa di laut 115 Barat Daya&nbsp; Bantul -DIY
 "
+111.4713,-8.705,66,2.9,"
+	Pusat gempa di laut 71 km Tenggara PACITAN-JATIM
+"
+110.32057,-8.842,22,3.2,"
+	pusat gempa di laut, 99 km Barat Daya Gunung Kidul DIY
+"
 110.58,-8.45,10,3.4,"
 	Pusat gempa di laut 51 km BaratDaya Gunungkidul-DIY
 "
+109.34,-8.99,10,3.4,"
+	Pusat gempa dilaut 146 km Tenggara CILACAP-JATENG
+"
+112.66,-8.93,35,3.8,"
+	Pusat gempa dilaut,&nbsp; 88 km Tenggara MALANG-JATIM
+"
+112.7256909,-6.0,52,0.0,
 112.9222403,-6.8,52,0.0,
 109.24878,-8.403,79,3.0,"
 	Pusat gempa di laut 79 km Tenggara CILACAP-JATENG
@@ -441,6 +975,9 @@ Longitude,Latitude,Kedalaman,Magnitude,Keterangan
 108.76,-7.16,220,3.6,"
 	Pusat gempa di darat. 34 km TimurLaut BANJAR-JABAR
 "
+111.34086,-8.911,5,3.6,"
+	Pusat gempa di laut 85 km Tenggara-Pacitan
+"
 111.90614,-7.201,611,3.9,"
 	Pusat gempa di darat, 5 km Tenggara BOJONEGORO-JATIM
 "
@@ -451,13 +988,34 @@ Longitude,Latitude,Kedalaman,Magnitude,Keterangan
 110.27724,-8.498,84,2.7,"
 	Pusat gempa di laut 66 km BaratDaya BANTUL-DIY
 "
+110.20402,-8.723,30,3.2,"
+	Pusat gempa dilaut 92 km Barat daya Bantul DIY
+"
+109.95959,-8.988,22,3.3,"
+	Pusat gempa di laut 128 km BaratDaya Bantul-DIY
+"
+110.63357,-8.815,10,3.2,"
+	Pusat gempa di laut, 88 km BaratDaya PACITAN - JATIM
+"
+110.76118,-8.796,90,3.5,"
+	Pusat gempa di laut, 78 km Barat Daya Pacitan Jatim
+"
 108.69,-8.01,96,3.5,"
 	Pusat gempa di laut 40 km Tenggara Kab-Pangandaran-Jabar
 "
 110.74659,-8.332,33,2.8,"
 	Pusat gempa di laut 40 km Tenggara GUNUNGKIDUL-DIY
 "
+108.75292,-8.796,10,3.2,"
+	Pusat gempa di laut 122 km BaratDaya CILACAP-JATENG
+"
+110.28049,-8.858,59,3.3,"
+	Pusat gempa dilaut 102 km BaratDaya Gunungkidul - DIY
+"
 110.2136785,-6.6,70,0.0,
+112.11825,-8.959,30,3.6,"
+	Pusat gempa dilaut 92 km BaratDaya Blitar - Jatim&nbsp;
+"
 109.25535,-7.944,93,3.1,"
 	Pusat gempa di laut 36 km Tenggara CILACAP - JATENG
 "
@@ -467,15 +1025,33 @@ Longitude,Latitude,Kedalaman,Magnitude,Keterangan
 111.92,-7.53,237,3.8,"
 	Pusat gempa di darat, 8 km TimurLaut NGANJUK-JATIM.
 "
+109.89,-8.79,10,5.2,"
+	Pusat gempa di laut 110 km BaratDaya Bantul - DIY
+"
 110.43456,-7.917,16,1.8,"
 	Pusat gempa di darat 9 km Tenggara BANTUL - DIY
+"
+111.32726,-8.877,16,3.5,"
+	Pusat gempa dilaut 81 km tenggara Pacitan-Jatim
 "
 110.44952,-7.853,16,2.0,"
 	Pusat gempa didarat 12 km Timurlaut Bantul - DIY
 "
+110.35792,-8.636,22,2.7,"
+	Pusat gempa dilaut 76 Barat daya Gunung Kidul DIY
+"
+113.71957,-8.757,80,2.9,"
+	Pusat gempa di laut, 63 km Tenggara JEMBER - JATIM
+"
+110.70826,-8.914,10,2.9,"
+	Pusat gempa di laut 92 km BaratDaya PACITAN-JATIM
+"
 114.3106278,-6.3,72,0.0,
 108.7,-7.9,74,3.5,"
 	Pusat gempa di laut 32 km Tenggara Pangandaran Jabar
+"
+108.73,-8.63,10,3.8,"
+	Pusat gempa di laut 104 Km Barat Daya Cilacap - Jateng
 "
 111.26,-7.88,22,2.7,"
 	Pusat gempa di darat 21 km from Ponorogo Jatim (seiscomp)
@@ -487,18 +1063,45 @@ Longitude,Latitude,Kedalaman,Magnitude,Keterangan
 109.78881,-8.379,10,2.8,"
 	Pusat gempa di laut, 75 km BaratDaya KULONPROGO - DIY
 "
+110.15,-8.68,28,3.0,"
+	Pusat gempa di laut 88 Km Barat Daya Bantul - DIY
+"
 113.2004554,-7.7,82,0.0,
+111.18075,-8.956,10,3.1,"
+	Pusat gempa dilaut 86 km tenggara Pacitan Jatim
+"
+108.71758,-8.648,30,3.4,"
+	Pusat gempa di laut 107 km BaratDaya CILACAP-JATENG
+
+	&nbsp;
+"
+111.10609,-8.601,10,3.2,"
+	Pusat gempa dilaut 46 km Tenggara PACITAN-JATIM
+"
 110.55875,-8.459,10,2.5,"
 	Pusat Gempa di Laut, 52 km BaratDaya GUNUNGKIDUL - DIY
 "
 109.0308458,-7.1,82,0.0,
+111.2299,-8.912,10,2.9,"
+	Pusat gempa di laut 82 km tenggara Pacitan Jatim
+"
 108.7564021,-7.4,82,0.0,
+109.87499,-8.585,38,3.0,"
+	Pusat gempa di laut 91 km BaratDaya KULONPROGO-DIY
+"
 113.7810362,-7.5,82,0.0,
+112.23869,-8.599,23,3.3,"
+	Pusat gempa dilaut 51 km Tenggara Blitar Jatim
+"
 110.46678,-7.96,7,2.1,"
 	Pusat gempa didarat 14 km Tenggara BANTUL-DIY
 "
 110.46,-7.48,13,2.6,"
 	Di darat 16 Km Barat Daya Salatiga - Jateng
+"
+114.9965719,-5.8,90,0.0,
+111.2438,-8.607,99,3.4,"
+	Pusat gempa di laut, 49 km Tenggara PACITAN-JATIM
 "
 109.30429,-8.481,19,3.5,"
 	Pusat gempa di laut 90 km Tenggara CILACAP-JATENG&nbsp;
@@ -507,8 +1110,29 @@ Longitude,Latitude,Kedalaman,Magnitude,Keterangan
 110.59974,-7.653,10,2.4,"
 	Pusat gempa didarat 6 km TimurLaut KLATEN-JATENG
 "
+110.73254,-8.842,10,2.9,"
+	Pusat gempa di laut 84 km BaratDaya PACITAN - JATIM
+"
+110.09442,-8.666,22,2.9,"
+	Pusat gempa di laut 89 km BaratDaya BANTUL-DIY
+"
+110.52052,-8.658,10,2.7,"
+	Pusat gempa di laut 74 km BaratDaya GUNUNGKIDUL - DIY
+"
 110.76073,-7.514,19,2.7,"
 	Pusat gempa di darat 9 km BaratLaut KOTA-SURAKARTA-JATENG
+"
+109.697,-8.628,36,3.1,"
+	Dilaut 103 Km Barat Daya Kulonprogo-DIY
+"
+111.335,-8.688,35,4.3,"
+	Pusat gempa dilaut 56 km Tenggara Pacitan Jatim, dirasakan di Pacitan, Wonogiri II MMI
+"
+111.05563,-8.965,11,2.8,"
+	Pusat gempa dilaut 87 km BaratDaya PACITAN-JATIM
+"
+111.34442,-8.787,10,2.6,"
+	Pusat gempa di laut 72 km Tenggara PACITAN - JATIM
 "
 111.47759,-8.421,93,2.9,"
 	Pusat gempa di laut 45 km BaratDaya TRENGGALEK-JATIM
@@ -517,6 +1141,9 @@ Longitude,Latitude,Kedalaman,Magnitude,Keterangan
 111.85678,-8.374,95,3.4,"
 	Pusat gempa dilaut 34 km BaratDaya TULUNGAGUNG-JATIM
 "
+110.87127,-8.701,15,3.3,"
+	Pusat gempa di laut 63 km BaratDaya PACITAN - JATIM
+"
 111.18871,-8.479,74,3.1,"
 	Pusat gempa di laut 34 km Tenggara PACITAN-JATIM
 "
@@ -524,8 +1151,14 @@ Longitude,Latitude,Kedalaman,Magnitude,Keterangan
 	Pusat gempa didarat 14 km BaratLaut GUNUNGKIDUL-DIY
 "
 110.1946651,-7.8,102,0.0,
+110.7814,-8.834,12,3.7,"
+	Pusat gempa dilaut 81 km BaratDaya PACITAN-JATIM
+"
 111.61615,-8.07,10,3.0,"
 	Pusat gempa di darat 10 km BaraLaut TRENGGALEK - JATIM
+"
+110.296165,-8.806,26,3.1,"
+	Pusat gempa di laut 96 km BaratDaya GUNUNGKIDUL-DIY
 "
 109.73322,-8.402,24,2.9,"
 	Pusat gempa dilaut&nbsp; 80 km BaratDaya KULONPROGO-DIY&nbsp;
@@ -536,17 +1169,44 @@ Longitude,Latitude,Kedalaman,Magnitude,Keterangan
 109.79134,-7.47,16,2.9,"
 	Pusat gempa didarat, 11 km Tenggara BANJARNEGARA-JATENG
 "
+110.89275,-8.695,29,3.7,"
+	Pusat gempa di laut 62 km BaratDaya PACITAN-JATIM Dirasakan II MMI di Pacitan - Jatim
+"
+110.623,-8.975,32,3.4,"
+	Pusat Gempa di Laut 103 km BaratDaya PACITAN-JATIM
+"
+110.56969,-8.68,26,3.2,"
+	Pusat gempa di laut, 76 km BaratDaya GUNUNGKIDUL-DIY
+"
 109.94698,-7.298,10,2.7,"
 	Pusat gempa di darat 9 km TimurLaut WONOSOBO-JATENG dirasakan di Dieng II MMI&nbsp;
 "
 111.22714,-7.811,127,2.9,"
 	Pusat gempa di darat 21 km BaratDaya MAGETAN-JATIM
 "
+111.93676,-8.849,25,3.3,"
+	Pusat gempa di laut, Lok:8.849 LS,111.93676 BT (85 km BaratDaya KAB-BLITAR-JATIM)
+"
+113.368,-8.517,10,3.2,"
+	Pusat gempa dilaut 45 km Tenggara Lumajang - Jawa Timur
+"
+109.79929,-8.679,10,2.9,"
+	Pusat gempa di laut 103 km BaratDaya KULONPROGO - DIY
+"
 112.37235,-7.467,29,2.9,"
 	Pusat gempa didarat 7 km BaratLaut KOTA-MOJOKERTO-JATIM
 "
+111.04,-8.805,24,2.6,"
+	Pusat gempa dilaut 69 km Barat daya Pacitan Jatim
+"
+111.47727,-8.961,20,3.5,"
+	Pusat gempa di laut, 96 km Tenggara PACITAN-JATIM
+"
 108.98873,-7.413,22,3.0,"
 	Pusat gempa dilaut 26 km BaratLaut Banyumas - Jateng
+"
+111.14371,-8.584,38,3.2,"
+	Pusat gempa di laut 45 km Tenggara PACITAN - JATIM
 "
 109.08208,-8.451,73,3.3,"
 	Pusat gempa dilaut 80 km Tenggara CILACAP-JATENG
@@ -554,12 +1214,35 @@ Longitude,Latitude,Kedalaman,Magnitude,Keterangan
 109.53529,-7.801,21,2.9,"
 	Pusat gempa dilaut 19 km BaratDaya KEBUMEN-JATENG, dirasakan di Kebumen I-II MMI
 "
+110.37522,-8.7,18,2.9,"
+	Pusat gempa di laut 82 km Barat Daya Gunung Kidul DIY
+"
+112.83595,-8.539,106,2.6,"
+	Pusat gempa di laut 53 km Tenggara Kab. Malang - Jatim
+"
+111.36059,-8.979,10,3.4,"
+	Pusat gempa di laut, 93 km Tenggara PACITAN-JATIM
+"
+110.97966,-8.87,22,3.3,"
+	Pusat gempa dilaut 78 km BaratDaya PACITAN-JATIM
+"
 109.6766,-8.029,74,3.3,"
 	Pusat gempa di laut 40 km Tenggara KEBUMEN-JATENG
 "
+109.1794735,-5.6,11,0.0,
 111.72861,-7.959,130,3.6,"
 	Pusat gempa di darat 14 km TimurLaut TRENGGALEK - JATIM
 "
+108.71078,-8.803,30,4.1,"
+	Pusat gempa dilaut 124 km BaratDaya CILACAP-JATENG
+"
+110.2562,-8.885,26,3.3,"
+	Pusat gempa di laut 106 km BaratDaya GunungKidul-DIY
+"
+110.55637,-8.578,29,2.9,"
+	Pusat gempa di laut, 65 km BaratDaya GUNUNGKIDUL-DIY
+"
+106.3074621,-5.8,11,0.0,
 110.40715,-8.011,10,2.1,"
 	Pusat gempa di Darat 13 km Tenggara BANTUL - DIY
 "
@@ -573,6 +1256,12 @@ Longitude,Latitude,Kedalaman,Magnitude,Keterangan
 109.25,-8.4,29,3.3,"
 	Pusat gempa di laut&nbsp;79 km Tenggara CILACAP-JATENG
 "
+109.86,-8.88,29,3.6,"
+	Pusat gempa di laut 121 km baratdaya Bantul - D.I Yogyakarta
+"
+113.14,-8.95,30,3.0,"
+	Pusat gempa di laut 82 km Selatan Tempeh - JATIM
+"
 113.59,-8.14,10,2.5,"
 	Pusat gempa didarat 12 km BaratLaut Jember - Jatim
 "
@@ -582,17 +1271,45 @@ Longitude,Latitude,Kedalaman,Magnitude,Keterangan
 112.84097,-8.359,29,2.8,"
 	Pusat gempa di darat, 38 km Tenggara KAB-MALANG-JATIM
 "
+110.30511,-8.872,18,3.2,"
+	Pusat gempa di laut 103 BaratDaya GUNUNGKIDUL - DIY
+"
 108.70934,-7.1,10,3.9,"
 	Pusat gempa di darat 28 km Tenggara KAB. KUNINGAN - JABAR
+"
+111.44518,-8.602,83,3.1,"
+	Pusat gempa di laut, 60 km Tenggara PACITAN-JATIM
+"
+110.59894,-8.767,19,2.8,"
+	Pusat gempa dilaut 85 km BaratDaya Gunungkidul
 "
 111.75965,-7.139,220,3.0,"
 	Pusat gempa didarat 14 km BaratLaut BOJONEGORO-JATIM
 "
+111.74629,-8.58,38,2.8,"
+	Pusat gempa di laut, 55 km Tenggara TRENGGALEK-JATIM
+"
+112.10249,-8.755,26,2.8,"
+	PUSAT GEMPA DILAUT 70 KM BARAT DAYA KAB BLITAR JATIM
+"
 108.90556,-8.435,19,3.3,"
 	Pusat gempa di laut, 79 km BaratDaya CILACAP-JATENG
 "
+110.12,-8.94,10,3.1,"
+	Pusat gempa dilaut 118 km Selatan Bantul - DIY
+"
+110.44,-8.99,10,2.9,"
+	Pusat gempa di laut 114 km BaraDaya PACITAN - JATIM
+"
 110.6,-7.77,20,1.9,"
 	Pusat gempa di darat 7 km Selatan KLATEN - JATENG
+"
+112.70811,-8.89,10,3.1,"Pusat gempa di laut, 85 km Tenggara KAB-MALANG-JATIM"
+110.35994,-8.831,25,3.2,"
+	Pusat gempa di laut 97 km BaratDaya Gunungkidul - D.I Yogyakarta
+"
+110.72773,-8.575,18,3.2,"
+	Pusat gempa dilaut 60 km BaratDaya PACITAN-JATIM
 "
 109.62569,-8.074,60,2.7,"
 	Pusat gempa dilaut 45 km BaratDaya KEBUMEN-JATENG&nbsp;
@@ -600,27 +1317,61 @@ Longitude,Latitude,Kedalaman,Magnitude,Keterangan
 109.01801,-8.453,18,3.5,"
 	Pusat gempa di laut 80 km Tenggara CILACAP - JATENG
 "
+110.27662,-8.925,10,3.1,"
+	Pusat gempa di laut 109 km BaratDaya gunungkidul-DIY
+"
+111.20058,-8.789,20,3.4,"
+	Pusat gempa di laut 68 km Tenggara PACITAN-JATIM
+"
+108.92644,-8.536,26,2.8,"
+	Pusat gempa di laut 90 km BaratDaya CILACAP-JATENG
+"
 110.48985,-7.931,10,2.5,"
 	Pusat gempa di darat 15 km Baratlaut GUNUNGKIDUL - DIY
 "
 108.73,-8.47,44,4.2,"
 	Pusat gempa di laut 87 km barat daya Cilacap Jateng
 "
+112.46,-8.85,84,2.9,"
+	Pusat gempa di laut 80 km BaratDaya Kepanjen - Jawa Timur
+"
 110.82176,-8.381,14,2.5,"
 	Pusat gempa di laut 38 km BaratDaya PACITAN-JATIM
+"
+110.59764,-8.991,39,4.9,"
+	Pusat gempa di laut 97 km BaratDaya PACITAN-JAWA TIMUR
+"
+109.70253,-8.781,22,3.0,"
+	Di Laut 115 km Barat Daya Bantul - DIY
 "
 106.611294,-7.4,12,0.0,
 111.77749,-8.313,80,2.8,"
 	Pusat gempa dilaut 26 km Tenggara Trenggalek - Jatim
 "
+113.61,-8.83,10,3.0,"
+	Pusat gempa dilaut 70 km Barat daya Jember Jatim
+"
+110.3876,-8.952,68,3.1,"
+	Pusat gempa di laut 109 km BaratDaya GUNUNGKIDUL-DIY
+"
+110.7426,-8.805,27,2.9,"Pusat gempa di laut, 80 km BaratDaya PACITAN-JATIM"
 111.73081,-8.379,62,2.9,"
 	Pusat gempa di laut 32 km Tenggara TRENGGALEK-JATIM
+"
+110.66676,-8.898,10,2.7,"
+	Pusat gempa di laut 75 km BaratDaya PACITAN - JATIM
 "
 110.43197,-8.0,11,2.3,"
 	Pusat gempa didarat 13 km Tenggara Bantul - DIY
 "
 108.91101,-8.394,78,4.2,"
 	Pusat gempa dilaut 74 Km Barat Daya Cilacap-Jateng
+"
+110.02025,-8.637,30,3.0,"
+	Pusat gempa di laut 89 km Baratdaya Bantul - D.I Yogyakarta
+"
+110.31418,-8.817,24,3.0,"
+	Pusat gempa dilaut 97 km BaratDaya GunungKidul - D.I Yogyakarta
 "
 110.51517,-8.177,10,2.4,"
 	Pusat gempa di laut 23 km BaratDaya GUNUNGKIDUL - DIY
@@ -631,14 +1382,32 @@ Longitude,Latitude,Kedalaman,Magnitude,Keterangan
 110.36607,-8.05,12,2.0,"
 	Pusat gempa di darat 16 km Tenggara BANTUL-DIY
 "
+110.25469,-8.887,28,2.7,"
+	Pusat gempa di laut 106 km BaratDaya GUNUNGKIDUL-DIY
+"
 110.45753,-7.989,8,1.9,"
 	Pusat gempa di darat, 15 km Tenggara BANTUL-DIY
+"
+109.77645,-8.796,16,3.0,"
+	Pusat gempa dilaut, 116 km BaratDaya KULONPROGO-DIY
 "
 112.09219,-6.376,637,5.0,"
 	Pusat gempa di laut 58 km TimurLaut TUBAN-JATIM
 "
+111.42905,-8.691,10,3.3,"
+	Pusat gempa di laut 67 km Tenggara PACITAN - JATIM
+"
 109.04606,-8.25,14,3.0,"
 	Pusat gempa dilaut&nbsp; 58 km Tenggara CILACAP-JATENG
+"
+111.2096,-8.848,19,3.1,"
+	Pusat gempa di laut 75 km Tenggara Pacitan - JATIM
+"
+108.96396,-8.65,10,3.2,"
+	Pusat gempa sdi laut 102 km BaratDaya CILACAP - JATENG
+"
+112.18233,-8.571,47,2.9,"
+	Pusat gempa dilaut 48 km BaratDaya KAB-BLITAR-JATIM
 "
 111.69111,-8.171,114,2.4,"
 	Pusat gempa didarat 9 km Barat Daya Trenggalek
@@ -653,8 +1422,19 @@ Longitude,Latitude,Kedalaman,Magnitude,Keterangan
 	Pusat gempa di laut 46 km BaratDaya BANTUL-DIY
 "
 112.5406966,-6.4,30,0.0,
+112.94944,-8.913,94,3.6,"
+	Pusat gempa dilaut 92 km BaratDaya LUMAJANG-JATIM
+"
+110.93588,-8.751,24,2.4,"
+	Pusat gempa di laut, 66 km BaratDaya PACITAN-JATIM
+
+	&nbsp;
+"
 111.43,-7.98,125,2.6,"
 	Pusat gempa di darat 13 km BaratDaya Ponorogo Jatim
+"
+110.94983,-8.85,10,3.7,"
+	Pusat gempa di laut 76 km BaratDaya PACITAN - JATIM
 "
 110.6246,-8.452,9,2.4,"
 	Pusat gempa dilaut 50 km tenggara Gunungkidul DIY
@@ -662,27 +1442,77 @@ Longitude,Latitude,Kedalaman,Magnitude,Keterangan
 110.48,-7.89,12,1.7,"
 	Pusat gempa di darat 14 km TimurLaut Bantul-DIY
 "
+111.26936,-8.896,21,3.7,"
+	Pusat gempa di laut 81 km Tenggara PACITAN-JATIM
+"
 110.31495,-8.441,47,2.7,"
 	Pusat gempa dilaut 59 km BaratDaya GUNUNGKIDUL-DIY
+"
+112.537,-8.799,39,2.8,"
+	Pusat gempa di laut 73 km BaratDaya KAB-MALANG-JATIM
+"
+110.65908,-8.923,17,3.2,"
+	Pusat gempa di laut 96 km BaratDaya PACITAN-JATIM
 "
 112.52377,-7.559,10,2.9,"
 	Pusat gempa di darat 5 km TimurLaut KAB-MOJOKERTO-JATIM
 "
+112.50204,-8.813,41,2.9,"
+	Pusat gempa dilaut 75 km BaratDaya KAB-MALANG-JATIM
+"
+111.42329,-8.867,17,2.9,"
+	pusat gempa dilaut 84 km Tenggara PACITAN-JATIM
+"
+108.70883,-8.817,10,3.0,"
+	Pusat gempa dilaut, 125 km baratDaya Cilacap, Jateng
+"
 110.41151,-8.027,11,2.0,"
 	Pusat gempa didarat 15 km Tenggara BANTUL-DIY
+"
+111.28457,-8.984,17,3.8,"
+	Pusat gempa dilaut 91 km Tenggara PACITAN-JATIM
 "
 110.4445,-8.039,7,2.4,"
 	Pusat gempa didarat, 18 Km Tenggara Bantul DIY
 "
+112.49,-8.87,38,6.6,"
+	Pusat gempa di laut, 82 km Selatan Kota Kepanjen, Kabupaten Malang - Jawa Timur
+"
+112.48257,-8.937,40,3.1,"
+	Pusat gempa 89 km BaratDaya Kab Malang-Jatim
+"
+112.48365,-8.799,50,3.1,"
+	Pusat gempa di laut 74 km BaratDaya Kab. Malang-Jatim, Dirasakan II-III MMI di prigi, II MMI di Tempursari, Ampelgading
+"
+112.44972,-8.923,29,3.8,"
+	Pusat gempa di laut 88 km BaratDaya KAB-MALANG-JATIM, Kedlmn:29 Km, dirasakan di Prigi II-III MMI ::BMKG
+"
 109.04355,-8.262,35,3.0,"
 	Pusat gempa di laut 59 km Tenggara Cilacap JATENG
+"
+110.64551,-8.659,10,3.6,"
+	Pusat gempa di laut, 73 km BaratDaya PACITAN-JATIM
 "
 109.02326,-8.297,28,2.9,"
 	Pusat gempa di laut 63 km Tenggara CILACAP-JATENG
 "
+109.87975,-8.939,10,3.0,"
+	Pusat gempa dilaut, 126 km BaratDaya Bantul DIY
+"
+110.20219,-8.827,10,2.8,Pusat gempa di 103 km BaratDaya GUNUNGKIDUL-DIY
+110.86356,-8.824,26,2.5,"
+	Pusat gempa di laut 76 km BaratDaya PACITAN-JATIM
+"
+111.2067,-8.75,27,2.3,"
+	Pusat gempa dilaut 64 km Tenggara PACITAN-JATIM
+"
+111.3361,-8.884,18,3.2,"
+	Pusat gempa di laut, 82 km Tenggara PACITAN-JATIM
+"
 111.53256,-8.157,126,3.4,"
 	Pusat gempa di darat 21 km BaratDaya TRENGGALEK-JATIM
 "
+110.26843,-8.74,24,4.6,"Pusat gempa dilaut 91 km BaratDaya Gunungkidul - DIY, dirasakan di Gunungkidul, Bantul, Sleman, Wonogiri II MMI"
 112.01368,-8.402,66,3.6,"
 	Pusat gempa di laut 37 km BaratDaya BLITAR - JATIM
 "
@@ -695,11 +1525,42 @@ Longitude,Latitude,Kedalaman,Magnitude,Keterangan
 109.07923,-7.43,208,3.7,"
 	Pusat gempa di laut 16 km BaratDaya BANYUMAS -JATENG
 "
+111.2082624,-6.0,50,0.0,
 111.81717,-7.861,17,2.9,"
 	Pusat gempa didarat 22 km BaratDaya KOTA-KEDIRI-JATIM
 "
+112.4323,-8.795,57,2.6,"
+	Pusat gempa di laut 74 km BaratDaya KAB-MALANG-JATIM
+"
 111.38923,-7.447,10,2.8,"
 	Pusat gempa di darat 8 km BaratDaya Ngawi-Jatim
+"
+110.07932,-8.898,10,3.2,"
+	Pusat gempa di laut 114 km BaratDaya BANTUL-DIY
+"
+110.02412,-8.717,10,3.6,"
+	Pusat gempa di laut 97 km Barat Daya Bantul DIY
+"
+110.99723,-8.701,86,3.1,"
+	Pusat gempa dilaut 59 km BaratDaya PACITAN-JATIM
+"
+110.74908,-8.805,19,2.9,"
+	Pusat gempa di laut 80 km Baratdaya Pacitan - JATIM
+"
+112.99841,-8.761,38,3.0,"
+	Pusat gempa di laut 74 km BaratDaya LUMAJANG - JATIM
+"
+112.245,-8.514,109,2.9,"
+	Pusat gempa di laut 42 km Tenggara Kab. Blitar-Jatim
+"
+110.46282,-8.728,28,2.4,"
+	Pusat gempa di laut 83 km BaratDaya GUNUNGKIDUL-DIY
+"
+110.02893,-8.943,10,2.8,"
+	Pusat gempa di laut 121 km BaratDaya Bantul-DIY
+"
+110.29754,-8.839,18,3.4,"
+	Pusat gempa di laut 100 km BaratDaya GUNUNGKIDUL - D.I. YOGYAKARTA
 "
 109.951,-7.101,9,3.2,"
 	Pusat gempa di darat 29 km Timur Laut Wonosobo,
@@ -708,6 +1569,15 @@ Longitude,Latitude,Kedalaman,Magnitude,Keterangan
 	Pusat gempa di laut 10 km TimurLaut Kab. Probolinggo - Jatim
 
 	&nbsp;
+"
+108.56292,-8.817,10,3.3,"
+	Pusat gempa di laut 124 km Tenggara KAB. PANGANDARAN - JABAR
+"
+112.49156,-8.815,52,3.9,"
+	Pusat gempa dilaut 75 km BaratDaya KAB-MALANG-JATIM
+"
+113.00541,-8.6,80,4.1,"
+	Pusat gempa dilaut 57 Km Barat Daya Lumajang - Jatim
 "
 109.7697218,-7.1,52,0.0,
 111.39872,-7.816,10,3.1,"
@@ -719,11 +1589,32 @@ Longitude,Latitude,Kedalaman,Magnitude,Keterangan
 111.93978,-8.044,147,3.4,"
 	Pusat gempa dilaut 5 km TimurLaut TULUNGAGUNG-JATIM
 "
+112.33869,-8.738,89,4.3,"
+	Pusat gempa dilaut 68 Km Tenggara Blitar - Jatim
+"
+113.13398,-8.796,39,3.0,"
+	Pusat gempa dilaut 74 km BaratDaya LUMAJANG-JATIM
+"
+110.95033,-8.822,12,2.9,"
+	Pusat gempa di laut 73 km BaratDaya PACITAN-JATIM
+"
+110.59821,-8.966,13,2.7,"
+	Pusat gempa di laut 104 km barat daya Pacitan Jatim
+"
+110.93481,-8.885,68,3.2,"
+	Pusat gempa di laut 80 km BaratDaya Pacitan-Jatim
+"
 110.47659,-7.965,12,1.5,"
 	Pusat gempa di darat 15 km BaratLaut GUNUNGKIDUL-DIY
 "
 109.07825,-8.349,21,3.5,"
 	Pusat gempa dilaut 69 km tenggara Cilacap - Jateng
+"
+112.5288,-8.92,40,3.1,"
+	Pusat gempa di laut 87 km BaratDaya KAB-MALANG-JATIM
+"
+110.10194,-8.908,10,3.0,"
+	Pusat gempa di laut 115 km BaratDaya Bantul-DIY
 "
 110.14085,-8.159,63,2.4,"
 	Pusat gempa di laut 37 km BaratDaya BANTUL-DIY
@@ -731,14 +1622,43 @@ Longitude,Latitude,Kedalaman,Magnitude,Keterangan
 111.40717,-7.776,5,2.8,"
 	Pusat gempa di darat, 12 km BaratLaut PONOROGO-JATIM
 "
+110.54994,-8.805,6,2.8,"
+	Pusat gempa di laut 90 km BaratDaya Gunungkidul-DIY
+"
 110.61539,-8.437,52,5.6,"
 	Pusat Gempa di laut 49 km Tenggara GUNUNGKIDUL - DIY
+"
+109.18737,-8.576,10,3.6,"
+	Pusat gempa di laut 96 km Tenggara Cilacap-Jateng
+"
+109.85672,-8.8,12,3.0,"
+	Pusat gempa di laut 114 km BaratDaya BANTUL - DIY
 "
 110.46078,-7.911,24,2.2,"
 	Pusat gempa di laut 12 km Tenggara Bantul-DIY
 "
+112.46619,-8.789,20,3.8,"
+	Pusat gempa di laut&nbsp;73 km BaratDaya KAB-MALANG-JATIM
+"
+109.72282,-8.914,10,2.9,"
+	Pusat gempa di laut 131 km BaratDya KULONPROGO - DIY
+"
+111.8357,-8.858,21,3.8,"
+	Pusat gempa di laut 86 km Tenggara TRENGGALEK-JATIM
+"
+113.03895,-8.667,124,2.7,"
+	Pusat gempa&nbsp; di laut 62 km BaratDaya LUMAJANG-JATIM
+
+	&nbsp;
+"
+110.92256,-8.954,100,2.9,"
+	Pusat gempa di laut, 88 Km Barat Daya Pacitan Jatim
+"
 109.04,-8.32,22,3.3,"
 	Pusat gempa dilaut 66 km Tenggara CILACAP-JATENG
+"
+112.30627,-8.596,80,3.3,"
+	Pusar gempa di laut 52 km Tenggara KAB-BLITAR-JATIM
 "
 108.99628,-8.476,33,3.5,"
 	Pusat gempa dilaut 83 km Barat daya&nbsp; Cilacap
@@ -755,18 +1675,59 @@ Longitude,Latitude,Kedalaman,Magnitude,Keterangan
 111.0108,-8.218,136,3.5,"
 	Pusat gempa di darat, 11 Km BaratDaya Pacitan Jatim
 "
+110.27414,-8.693,18,3.5,"
+	Pusat gempa dilaut 86 km BaratDaya GUNUNGKIDUL-DIY
+"
+111.47,-8.86,10,5.3,"
+	Pusat Gempa di laut, 85 km Tenggara PACITAN-JATIM
+
+	&nbsp;
+"
+111.40678,-8.827,32,3.9,"
+	Di Laut 79 km Tenggara Pacitan - Jawa Timur
+"
+110.55923,-8.766,10,3.2,"
+	Pusat gempa di laut 85 km BaratDaya GUNUNGKIDUL-DIY
+"
 109.373,-7.75,174,4.2,"
 	Pusat gempa di laut 32 km Barat daya Kebumen Jateng
 "
 108.8937014,-6.4,80,0.0,
+111.97621,-8.6,10,3.2,"
+	Pusat gempa di laut 58 km BaratDaya BLITAR - JATIM
+"
+111.52994,-8.785,23,2.9,"
+	Pusat gempa di laut 80 km BaratDaya Trenggalek - JATIM
+"
+111.367,-8.669,26,3.5,"
+	Pusat gempa dilaut, 61 Km Tenggara Pacitan Jatim
+"
+111.32771,-8.561,12,2.9,"
+	Pusat gempa di laut 49 km Tenggara Pacitan Jatim
+"
 110.50315,-7.952,10,1.8,"
 	Pusat gempa di darat 12 km BaratLaut GUNUNGKIDUL-DIY
+"
+109.20038,-8.966,23,3.2,"
+	Pusat gempa di laut 139 km Tenggara Cilacap - JATENG
 "
 111.51057,-8.269,59,2.8,"
 	Pusat gempa di darat, 30 km BaratDaya TRENGGALEK-JATIM
 "
+111.40456,-8.52,11,3.1,"
+	Pusat gempa di laut&nbsp;50 km Tenggara PACITAN-JATIM
+"
+112.11,-8.81,30,3.7,"
+	Pusat gempa dilaut 75 km BaratDaya KAB-BLITAR-JATIM
+"
 110.29109,-8.3,24,2.2,"
 	Pusat gempa dilaut 44 km BaratDaya BANTUL-DIY
+"
+110.08015,-8.677,10,2.8,"
+	Pusat gempa di laut 91 km BaratDaya BANTUL - DIY
+"
+110.56994,-8.709,28,2.9,"
+	Pusat gempa di laut 79 km BaratDaya Gunungkidul - DIY
 "
 111.09656,-8.38,9,3.3,"
 	Pusat genpa di laut 73 km BaratDaya Pacitan Jatim
@@ -774,23 +1735,65 @@ Longitude,Latitude,Kedalaman,Magnitude,Keterangan
 110.43906,-7.966,12,2.1,"
 	Pusat gempa di laut, 11 km Tenggara BANTUL-DIY
 "
+110.72,-8.82,30,3.2,"
+	Pusat gempa di laut 83 km Barat daya Pacitan Jatim
+"
+113.1596,-8.66,34,3.4,"
+	Pusat gempa di laut, 59 km BaratDaya LUMAJANG-JATIM
+"
+111.40501,-8.808,30,3.0,"
+	Pusat gempa dilaut 77 km Tenggara PACITAN-JATIM
+"
+110.036,-8.667,10,3.1,"
+	Pusat gempa dilaut 92 Km Barat Daya Bantul-DIY
+"
+110.90934,-8.758,27,2.6,"
+	Pusat gempa dilaut 67 km BaratDaya Pacitan - Jatim
+"
 110.48927,-7.95,12,2.0,"
 	Pusat gempa didarat, 14 Km BaratLaut Gunungkidul DIY
 "
+109.88725,-8.941,21,3.1,"
+	Pusat gempa dilaut 126 km BaratDaya Bantul - DIY
+"
+112.67659,-8.826,11,3.6,"
+	Pusat gempa dilaut 77 km Tenggara KAB-MALANG-JATIM
+"
 110.67562,-8.379,14,2.3,"
 	Pusat gempa di laut 43 km Tenggara Gunungkidul - DIY
+"
+111.75439,-8.74,10,2.9,"
+	Pusat gempa di laut, 72 km Tenggara TRENGGALEK-JATIM
+"
+108.89388,-8.567,10,3.7,"
+	Pusat gempa di laut 94 km BaratDaya CILACAP - JATENG
+"
+110.17534,-8.708,11,3.1,"
+	Pusat gempa di laut, 91 km BaratDaya Bantul-DIY
 "
 111.60394,-7.358,235,3.1,"
 	Pusat gempa didarat, 17 Km Timurlaut, Ngawi Jatim
 
 	&nbsp;
 "
+110.90336,-8.68,10,3.1,"
+	Pusat gempa di laut 60 km BaratDaya Pacitan - Jatim
+"
 106.0551577,-7.6,92,0.0,
+112.94466,-8.975,84,3.3,"
+	Pusat gempa di laut, 98 km BaratDaya LUMAJANG-JATIM
+"
 109.00675,-7.151,9,3.0,"
 	Pusat gempa di darat 21 km BaratDaya KAB-TEGAL-JATENG
 "
 109.68,-7.03,31,2.2,"
 	Pusat gempa di darat 11 km Selatan BATANG-JATENG dirasakan di Dieng II MMI
+"
+113.65,-8.79,10,3.5,"
+	Pusat gempa di laut 66 km Tenggara JEMBER-JATIM
+"
+110.34,-8.78,7,3.2,"
+	Pusat gempa di laut 92 km Baratdaya Gunung kidul DIY
 "
 110.34528,-8.046,17,2.6,"
 	Pusat gempa di laut 16 km BaratDaya BANTUL-DIY
@@ -801,10 +1804,14 @@ Longitude,Latitude,Kedalaman,Magnitude,Keterangan
 111.89162,-6.958,34,3.2,"
 	Pusat gempa di datar 16 km BaratDaya TUBAN - JATIM
 "
+110.23,-8.65,17,2.7,"
+	dilaut 83 Km Barat Daya Bantul-DIY
+"
 109.82735,-8.458,45,3.3,"
 	Pusat gempa di laut, 80 km BaratDaya KULONPROGO-DIY
 "
 108.94666,-7.178,6,3.3,"Pusat gempa didarat 28 km BaratDaya Kab Tegal - Jateng, dirasakan di Brebes II MMI"
+110.97,-8.87,55,4.8,"Pusat gempa 78 km BaratDaya PACITAN-JATIM dirasakan di Pacitan, Wonogiri, Treggalek, Gunungkidul III MMI , Bantul, Yogyakarta II MMI"
 108.72788,-8.249,80,2.9,"
 	Pusat gempa di laut&nbsp;65 km BaratDaya CILACAP-JATENG
 "
@@ -812,14 +1819,41 @@ Longitude,Latitude,Kedalaman,Magnitude,Keterangan
 	Pusat gempa di Laut 42 km BaratDaya Pacitan - Jatim
 "
 110.50986,-8.385,19,2.6,Pusat gempa di laut 44 km BaratDaya GUNUNGKIDUL-DIY
+111.39156,-8.942,10,2.9,"
+	Pusat gempa di laut 90 km Tenggara PACITAN JATIM
+"
+109.1686,-8.725,10,3.4,"
+	Pusat gempa di laut 112 km Tenggara Cilacap - Jateng
+"
+110.93465,-8.795,11,2.4,"
+	Pusat gempa di laut, 71 km BaratDaya PACITAN-JATIM
+"
+112.49993,-8.922,37,5.3,"
+	Pusat gempa di laut 87 km BaratDaya KAB-MALANG-JATIM
+"
 110.40529,-7.253,9,3.0,"
 	Pusat gempa didarat 13 km BaratLaut Kota Salatiga - Jateng, dirasakan di Ambarawa II MMI
+"
+112.13387,-8.63,10,3.3,"
+	Pusat gempa di laut 52 km BaratDaya BLITAR - JATIM
+"
+110.90389,-8.962,9,2.8,"
+	Pusat gempa di laut, 89 km BaratDaya PACITAN-JATIM
+"
+110.96691,-8.883,14,2.6,"
+	Pusat gempa di laut 74 km BaratDaya Pacitan - Jatim
+"
+110.89169,-8.902,10,4.4,"
+	Pusat gempa di laut 83 km BaratDaya Pacitan-Jatim
 "
 110.45197,-7.197,10,3.0,"
 	Pusat gempa didarat 9 Km Tenggara Kab Semarang - Semarang
 "
 113.43,-8.47,10,3.3,"
 	Pusat gempa dilaut 38 km BaratDaya JEMBER-JATIM
+"
+111.01,-8.91,10,2.9,"
+	Pusat gempa dilaut 81 km BaratDaya Pacitan
 "
 110.53,-8.37,21,2.3,"
 	Pusat gempa di laut 42 km BaratDaya Gunungkidul - DIY
@@ -830,14 +1864,32 @@ Longitude,Latitude,Kedalaman,Magnitude,Keterangan
 111.05,-8.1,72,2.5,"
 	Pusat gempa didarat 10 km BaratLaut Pacitan Jatim
 "
+110.11,-8.84,10,3.0,"
+	Pusat gempa di laut 107 km BaratDaya Bantul - DIY
+"
 110.49,-7.35,15,3.0,"
 	Pusat gempa di darat 2 km BaratDaya KOTA-SALATIGA-JATENG dirasakan di Ambarawa dan sekitarnya II MMI
+"
+111.6,-8.89,15,3.2,"
+	pusat gempa dilaut 90 km baratdaya&nbsp; Trenggalek Jatim
 "
 110.49,-7.94,21,1.6,"
 	Pusat gempa di darat 14 km BaratLaut GUNUNGKIDUL-DIY
 "
+110.44,-8.95,10,2.6,"
+	Pusat gempa di laut 107 km BaratDaya Gunungkidul - DIY
+"
 113.91,-6.61,16,2.9,"
 	Pusat gempa di laut 35 km TimurLaut SUMENEP - JATIM
+"
+110.35,-8.75,19,3.6,"
+	Pusat gempa dilaut 88 km barat daya Gunung Kidul&nbsp;
+"
+112.51,-8.57,10,3.3,"
+	Pusat gempa di laut 48 km BaratDaya KAB. MALANG-JATIM
+"
+109.91,-8.98,10,2.9,"
+	Pusat Gempa dilaut 129 km BaratDaya Bnatul - DIY
 "
 108.89,-8.44,10,2.8,"
 	Pusat gempa dilaut 80 km BaratDaya CILACAP-JATENG
@@ -845,14 +1897,29 @@ Longitude,Latitude,Kedalaman,Magnitude,Keterangan
 110.01,-8.0,131,3.6,"
 	Pusatgempa dilaut 19 Km Barat Daya Wates
 "
+111.41,-8.77,15,2.6,"
+	Pusat gempa di laut 73 km Tenggara pacitan-Jatim
+"
 110.59,-8.0,4,1.1,"
 	Pusat gempa didarat 2 Km BaratDaya GunungKidul - DIY
+"
+110.25,-8.79,23,2.5,"
+	Pusat gempa dilaut 97 km BaratDaya Gunungkiidul - DIY
+"
+111.19,-8.96,16,3.1,"
+	Pusat gempa di laut 87 km Tenggara PACITAN - JATIM
 "
 111.59,-8.24,110,2.9,"
 	Pusat gempa di darat 21 km BaratDaya TRENGGGALEK - JATIM
 "
+110.48,-8.92,14,2.8,"
+	Pusat gempa di laut 103 km BaratDaya Gunungkidul-DIY
+"
 109.16,-7.39,193,3.1,"
 	Pusat gempa di darat 8 km BaratLaut BANYUMAS - JATENG
+"
+110.85,-8.95,38,3.3,"
+	Pusat gempa di laut 90 km BaratDaya PACITAN - JATIM
 "
 110.25,-8.19,19,2.6,"
 	Pusat gempa dilaut 33 Km Barat Daya Bantul - DIY
@@ -860,10 +1927,22 @@ Longitude,Latitude,Kedalaman,Magnitude,Keterangan
 111.02,-8.0,75,2.1,"
 	Pusat gempa didarat 15 Km Barat Daya Jatiroto
 "
+110.39,-8.7,5,2.4,"
+	Pusat gempa dilaut 82 km BaratDaya GUNUNGKIDUL-DIY
+"
 110.51,-7.99,9,1.8,"
 	Pusat gempa di darat 11 km BaratLaut GUNUNGKIDUL-DIY
 "
+110.91,-8.75,26,2.8,"
+	Pusat gempa dilaut, 67 km BaratDaya Pacitan Jatim
+"
+110.83,-8.73,22,3.1,"
+	Pusat gempa di laut, 68 km BaratDaya PACITAN-JATIM
+"
 114.0524983,-7.6,122,0.0,
+111.47,-8.83,9,2.9,"
+	Pusat gepa dilaut 82 Km Tenggara Pacitan - JATIM
+"
 113.1980501,-7.5,12,0.0,
 110.51,-7.98,15,1.7,"
 	Pusat gempa di darat&nbsp; 11 km BaratLaut Gunungkidul
@@ -877,11 +1956,26 @@ Longitude,Latitude,Kedalaman,Magnitude,Keterangan
 111.89,-7.05,13,3.2,"
 	Pusat gempa di darat 11 km TimurLaut BOJONEGORO - JATIM
 "
+109.61,-8.74,15,2.9,"
+	Pusat gempa di laut, 119 km BaratDaya KEBUMEN-JATENG
+"
+110.96,-8.85,17,3.6,"
+	Pusat gempa dilaut, 76 Km BaratDaya Pacitan Jatim
+"
 110.66,-8.41,15,2.4,"
 	Pusat Gempa di laut,&nbsp;46 km Tenggara GUNUNGKIDUL-DIY
 "
 110.67,-8.39,21,2.5,"
 	Pusat gempa di laut 44 km Tenggara GUNUNGKIDUL - DIY
+"
+112.46,-8.87,44,3.3,"
+	Pusat gempa di laur 82 km BaratDaya Kab-Malang-Jatim
+"
+111.75,-8.8,24,3.2,"
+	Pusat gempa di laut, 79 km Tenggara TRENGGALEK-JATIM
+"
+113.4626,-8.50375,10,3.4,"
+	Pusat gempa di laut 39 km BaratDaya JEMBER-JATIM
 "
 110.47002,-8.40257,20,2.9,"
 	Pusat Gempa di Laut, 47 km Baratdaya GUNUNGKIDUL-DIY
@@ -889,17 +1983,44 @@ Longitude,Latitude,Kedalaman,Magnitude,Keterangan
 109.19505,-7.34938,222,3.0,"
 	Pusat gempa di darat 8 km BaratLaut Banyumas-Jateng
 "
+112.32379,-8.53556,115,3.2,"
+	Pusat gempa di laut 46 km Tenggara KAB-BLITAR-JATIM
+"
+110.78,-8.86,71,3.2,"
+	Pusat gempa dilaut, 83 km BaratDaya Pacitan Jatim
+"
 109.05543,-8.40255,19,3.5,"
 	Pusat gempa di laut 75 km Tenggara Cilacap - Jateng
+"
+110.40574,-8.97321,26,2.8,"
+	Pusat gempa dilaut 110 km BaratDaya GUNUNGKIDUL-DIY
+"
+109.98402,-8.84459,8,2.9,"
+	Pusat gempa dilaut 112 km Barat Daya Bantul DIY
 "
 109.92445,-7.22936,251,3.2,"
 	Pusat gempa didarat, 15 km Timurlaut Wonosobo Jateng
 "
+111.90333,-8.90822,20,3.1,"
+	Pusat gempa dilaut 92 km BaratDaya KAB-BLITAR-JATIM
+"
 111.26318,-7.99967,16,2.7,"
 	pusat gempa di darat 26 km TimurLaut PACITAN - JATIM
 "
+110.60122,-8.86156,12,2.7,"
+	Pusat gempa dilaut 94 Km BaratDaya Pacitan - Jatim
+"
 111.19167,-8.37583,70,2.9,"
 	Pusat gempa di laut 24 km Tenggara PACITAN-JATIM
+"
+112.27,-8.558,105,2.6,"
+	Pusat gempa di laut 47 km Tenggara Blitar
+"
+111.41,-8.86,12,2.7,"
+	Pusat gempa di laut, 82 km Tenggara PACITAN-JATIM
+"
+111.82554,-8.65591,40,3.2,"
+	Pusat gempa dilaut, 65 Km Tenggara Trenggalek Jatim
 "
 110.48217,-7.93576,15,1.8,"
 	Pusat gempa di darat 14 km Tenggara BANTUL-DIY
@@ -908,6 +2029,12 @@ Longitude,Latitude,Kedalaman,Magnitude,Keterangan
 "
 110.49518,-7.94371,13,2.0,"
 	Pusat gempa di darat 13 km BaratLaut GUNUNGKIDUL-DIY
+"
+110.72662,-8.6532,40,2.7,"
+	Pusat gempa di laut 66 km BaratDaya Pacitan
+"
+111.09,-8.59,38,2.7,"
+	Pusat gempa di laut, 45 km BaratDaya PACITAN-JATIM
 "
 112.93361,-7.2623,13,4.1,"
 	Pusat gempa dilaut, 24 km Tenggara Bangkalan Jatim, dirasakan di Bangkalan III MMI, Sumenep, Juanda, Surabaya Timur, Surabaya Utara (II MMI)
@@ -927,9 +2054,27 @@ Longitude,Latitude,Kedalaman,Magnitude,Keterangan
 110.4845,-7.92525,11,2.3,"
 	Pusat gempa dilaut, 14 Km Tenggara Bantul DIY
 "
+111.27,-8.87,13,2.8,"
+	Pusat gempa di laut, 78 km Tenggara PACITAN-JATIM
+"
+111.32841,-8.72054,36,3.0,"
+	Pusat gempa dilaut 65 km Tenggara Pacitan - Jatim
+"
+109.91,-8.83,12,3.1,"
+	Pusat gempa dilaut, 114 Km BaratDaya Bantul DIY
+"
+110.3775,-8.67766,42,2.9,"
+	Pusat gempa di laut, 80 km BaratDaya GUNUNGKIDUL, DIY
+"
 114.0311632,-8.0,12,0.0,
+111.8,-8.74,35,2.9,"
+	Pusat gempa di laut, 73 km Tenggara TRENGGALEK-JATIM
+"
 110.48481,-7.93571,17,1.4,"
 	Pusat gempa didarat, 14 Km Tenggara Bantul DIY
+"
+111.82536,-8.98938,30,3.3,"
+	Pusat gempa di laut 101 km Tenggara Trenggalek-Jatim
 "
 111.21316,-7.19679,24,2.8,"
 	Pusat gempa didarat 32 km TimurLaut SRAGEN-JATENG
@@ -940,18 +2085,49 @@ Longitude,Latitude,Kedalaman,Magnitude,Keterangan
 108.94625,-8.40815,10,3.1,"
 	Pusat gempa di laut 76 km BaratDaya CILACAP-JATENG
 "
+111.21237,-8.84221,23,3.2,"
+	Pusat gempa dilaut 74 km Tenggara PACITAN-JATIM
+"
+111.17578,-8.74563,19,2.9,"
+	Pusat gempa di laut 63 km Tenggara PACITAN-JATIM
+"
+109.76915,-8.78666,12,3.3,"
+	Pusat gempa dilaut, 116 km BaratDaya Kulon Progo DIY
+"
 109.01586,-8.30549,68,3.7,"
 	Pusat Gempa berada di Laut, 64 km Tenggara CILACAP-JATENG
 "
 110.73,-8.17,130,3.1,"
 	Pusat gempa di darat 23 km Tenggara Gunungkidul
 "
+110.29487,-8.83955,9,3.4,"
+	Pusat gempa berada di laut 100 km Baratdaya Gunungkidul
+"
+109.7647,-8.9731,28,2.9,"
+	Pusat gempa di laut 135 KM BaratDaya BANTUL - DIY
+"
 112.69,-7.84,108,3.0,"
 	Pusat gempa didarat, 16 Km Timurlaut Kota Malang Jatim
+"
+109.12587,-8.5033,66,2.7,"
+	Pusat gempa di laut 87 km Tenggara CILACAP-JATENG
+"
+111.34701,-8.99234,30,2.9,"
+	Pusat gempa di laut 94 km Tenggara Pacitan-Jatim
 "
 110.49056,-7.93542,21,1.3,"
 	Pusat gempa di laut 14 km BaratLaut GUNUNGKIDUL-DIY
 "
+109.29987,-8.65241,25,3.3,"
+	Pusat gempa dilaut 107 km Tenggara CILACAP-JATENG
+"
+111.48725,-8.65296,26,2.7,"
+	Pusat gempa di laut 67 km BaratDaya TRENGGALEK-JATIM
+"
+112.86692,-8.8561,33,3.4,"
+	Pusat Gempa di laut, 86 km Tenggara KAB-MALANG-JATIM
+"
+110.88649,-8.54584,34,2.9,"Pusat gempa di laut, 47 km BaratDaya PACITAN-JATIM"
 110.42851,-7.87881,16,1.8,"
 	Pusat gempa didarat 8 km Timurlaut Bantul DIY
 "
@@ -964,17 +2140,50 @@ Longitude,Latitude,Kedalaman,Magnitude,Keterangan
 110.38371,-8.4436,60,2.8,"
 	Pusat gempa dilaut, 55 km BaratDaya Gunungkidul DIY
 "
+111.28743,-8.71695,63,2.8,"
+	Pusat gempa di laut, 63 km Tenggara PACITAN-JATIM
+"
+111.33073,-8.96881,10,3.2,"
+	Pusat gempa di laut, 91 km Tenggara PACITAN-JATIM
+"
+111.19664,-8.86207,28,3.1,"
+	Pusat gempa di laut 76 km Tenggara PACITAN - JATIM
+"
 108.94553,-7.51503,218,3.0,"
 	Pusat gempa didarat, 23 km BaratLaut, Cilacap Jateng
 "
 109.74171,-8.42238,39,2.5,"
 	Pusat gempa di laut 81 km BaratDaya KULONPROGO-DIY
 "
+111.52927,-8.80461,13,2.8,"
+	Pusat gempa dilaut 81 km BaratDaya TRENGGALEK-JATIM
+"
+111.06436,-8.82993,10,2.4,"
+	Pusat gempa di laut, 72 km BaratDaya PACITAN-JATIM
+"
+109.73571,-8.6606,12,2.6,"
+	Pusat gempa dilaut, 104 km BaratDaya Kulon Progo DIY
+"
 112.78471,-7.92655,10,3.0,"
 	Pusat gempa di darat 17 km TimurLaut KOTA-MALANG-JATIM
 "
+110.3779,-8.6237,35,2.8,"
+	Pusat gempa di laut&nbsp;74 km BaratDaya GUNUNGKIDUL-DIY
+"
 110.66267,-8.38846,16,2.4,"
 	Pusat gempa di laut, 44 km Tenggara GUNUNGKIDUL-DIY
+"
+110.8861,-8.9424,70,2.9,"
+	Pusat gempa di laut 87 km BaratDaya Pacitan
+"
+110.41154,-8.97579,7,2.7,"
+	Pusat gempa dilaut 111 km BaratDaya GUNUNGKIDUL-DIY), Kedlmn:7 Km ::BMKG-PGR VII
+"
+112.49828,-8.78292,10,3.9,"
+	Pusat gempa dilaut 71 Km Barat Daya Malang - JATIM
+"
+110.19737,-8.78547,35,2.6,"
+	Pusat gempa di laut, 99 km BaratDaya GUNUNGKIDUL-DIY
 "
 110.46919,-7.944442,11,1.2,"
 	Pusat gempa di darat 13 km Tenggara BANTUL-DIY
@@ -984,6 +2193,9 @@ Longitude,Latitude,Kedalaman,Magnitude,Keterangan
 "
 110.2856,-8.2841,17,2.7,"
 	Pusat gempa di laut, 42 km BaratDaya BANTUL-DIY
+"
+111.51,-8.95,23,2.6,"
+	Pusat gempa di laut 96 km Tenggara PACITAN-JATIM
 "
 110.44587,-7.97117,18,2.3,"
 	Pusat gempa didarat 13 Km Tenggara Bantul - DIY, dirasakan di Imogiri dan Pungong-Bantul II MMI
@@ -1000,6 +2212,15 @@ Longitude,Latitude,Kedalaman,Magnitude,Keterangan
 112.17083,-7.97799,10,2.1,"
 	Pusat gempa di darat 13 km Timurlaut Kota Blitar - JATIM
 "
+110.92087,-8.90349,28,3.5,"
+	Pusat gempa dilaut 82 km BaratDaya Pacitan - Jatim
+"
+112.14899,-8.75289,92,3.9,"
+	Pusat gempa di laut 68 km BaratDaya KAB-BLITAR-JATIM
+"
+111.9279,-8.9075,11,3.3,"
+	Pusat gempa di laut 91 km BaratDaya KAB-BLITAR-JATIM
+"
 110.77819,-8.4348,10,2.5,"
 	Pusat gempa dilaut 45 km BaratDaya PACITAN-JATIM
 "
@@ -1009,16 +2230,34 @@ Longitude,Latitude,Kedalaman,Magnitude,Keterangan
 110.4706,-7.94049,11,1.3,"
 	Pusat gempa di darat, 13 km Tenggara Bantul DIY
 "
+111.05666,-8.97622,59,3.1,"
+	Pusat gempa di laut 89 km BaratDaya PACITAN-JATIM
+"
 110.42502,-8.0627,10,2.0,"
 	Pusat gempa di darat 19 km Tenggara BANTUL-DIY
 
 	&nbsp;
 "
+110.51846,-8.98943,10,2.6,"
+	Pusat gempa dilaut 111 km BaratDaya Gunungkidul - DIY
+"
 112.02235,-8.23958,100,3.2,"
 	Pusat gempa di darat, 22 km BaratDaya KOTA-BLITAR-JATIM
 "
+111.46606,-8.77577,31,2.6,"
+	Pusat gempa di laut 78 km Tenggara PACITAN-JATIM
+"
 110.5,-8.02,13,1.5,"
 	Pusat gempa di darat 12 km BaratDaya GUNUNGKIDUL-DIY
+"
+110.6011,-8.862,9,3.2,"
+	Pusat gempa di laut 94 km BaratDaya PACITAN-JATIM
+"
+110.34,-8.67,36,2.8,"
+	Pusat gempa dilaut 80 km BaratDaya GUNUNGKIDUL-DIY
+"
+110.3419,-8.86705,8,2.6,"
+	Pusat gempa di laut, 101 Km BaratDaya Gunungkidul
 "
 112.328,-7.63017,10,3.0,"
 	Pusat gempa didarat 7 km Tenggara Jombang Jatim
@@ -1029,14 +2268,23 @@ Longitude,Latitude,Kedalaman,Magnitude,Keterangan
 111.04401,-8.44249,10,2.2,"
 	Pusat gempa dilaut 29 km BaratDaya Pacitan -jatim&nbsp;
 "
+110.77864,-8.92333,25,2.9,"
+	Pusat gempa dilaut, 89 km BaratDaya Pacitan Jatim
+"
 111.6181,-8.30989,112,2.9,"
 	Pusat gempa di darat 26 km&nbsp; Barat daya Trenggalek Jatim
+"
+110.17921,-8.91918,22,3.1,"
+	113 km BaratDaya GUNUNGKIDUL-DIY
 "
 109.27161,-8.31191,40,2.9,"
 	Pusat gempa di laut, 71 km Tenggara CILACAP-JATENG
 "
 110.81375,-8.42422,14,2.6,"
 	Pusat gempa di laut 41 km BaratDaya Pacitan - Jawa Timur
+"
+112.78,-8.99,10,3.2,"
+	Pusat gempa di laut, 97 km Tenggara KAB-MALANG-JATIM
 "
 109.93162,-8.08556,4,3.8,"
 	Pusat gempa di laut,&nbsp;40 km BaratDaya KULONPROGO-DIY dirasakan Kulon Progo, Bantul, Sleman, Gunungkidul
@@ -1047,11 +2295,26 @@ Longitude,Latitude,Kedalaman,Magnitude,Keterangan
 111.97169,-7.82889,130,2.6,"
 	Pusat gempa di darat, 5 km BaratLaut KOTA-KEDIRI-JATIM
 "
+110.9181,-8.79524,12,2.5,"
+	Pusat gempa di laut 70 km BaratDaya PACITAN-JATIM
+"
+111.05,-8.93,30,2.7,"
+	Pusat gempa di laut,&nbsp;83 km BaratDaya PACITAN-JATIM
+"
+111.2406,-8.95881,16,2.7,"
+	Pusat gempa di laut 88 km Tenggara PACITAN-JATIM
+"
+109.39951,-8.55756,29,3.0,"
+	Pusat gempa dilaut, 102 Km BaratDaya Kebumen Jateng
+"
 109.22007,-8.39897,28,3.2,"
 	Pusat gempa dilaut, 78 km Tenggara Cilacap Jateng
 "
 110.45903,-7.8754,16,1.6,"
 	Pusat gempa di darat 12 km TimurLaut Bantul DIY
+"
+110.17322,-8.9185,79,3.2,"
+	Pusat gempa di laut, 114 km BaratDaya BANTUL-DIY
 "
 109.08064,-8.35401,32,3.4,"
 	Pusat gempa di laut 69 km Tenggara CILACAP-JATENG
@@ -1061,6 +2324,9 @@ Longitude,Latitude,Kedalaman,Magnitude,Keterangan
 "
 109.90534,-7.95331,105,2.6,"
 	Pusat gempa dilaut 28 km BaratDaya PURWOREJO-JATENG
+"
+110.34873,-8.69103,20,2.6,"
+	Pusat gempa dilaut82 km BaratDaya Gunungkidul - DIY
 "
 109.06907,-8.3195,29,2.8,"
 	Pusat gempa di laut 66 km Tenggara CILACAP-JATENG
@@ -1086,18 +2352,48 @@ Longitude,Latitude,Kedalaman,Magnitude,Keterangan
 109.0845,-8.31123,38,2.6,"
 	Pusat gempa dilaut 65 Km Tenggara Cilacap - Jateng
 "
+113.49229,-8.89177,36,2.6,"
+	Pusat gempa di laut 78 Km BaratDaya Jember -Jatim
+"
+110.1519,-8.91751,24,3.2,"
+	Pusat gempa di laut 114 km BaratDaya GUNUNGKIDUL-DIY
+"
 109.11632,-8.22051,37,2.4,"Pusat gempa dilaut, 56 km Tenggara CILACAP-JATENG"
+111.88804,-8.80793,10,2.8,"
+	Pusat di laut, 82 Km BaratDaya Tulungagung Jatim
+"
 112.90852,-7.62047,9,2.7,"
 	Pusat gempa di darat&nbsp;2 km BaratDaya PASURUHAN-JATIM
+"
+110.40747,-8.76304,14,2.8,"
+	Di laut&nbsp;88 km BaratDaya GUNUNGKIDUL-DIY
+"
+110.97228,-8.85431,28,2.7,"
+	Pusat gempa di laut 76 km BaratDaya PACITAN-JATIM
 "
 110.87334,-8.29186,248,2.3,"
 	Pusat gempa dilaut, 28 Km BaratDaya Pacitan Jatim
 "
+110.411,-8.93083,27,3.5,"
+	Pusat gempa dilaut 106 km BaratDaya GUNUNGKIDUL-DIY
+"
+113.38628,-8.73857,72,3.1,"
+	Pusat gempa dilaut 66 km BaratDaya Jember - Jatim
+"
 108.68266,-8.15667,49,2.7,"
 	Pusat gempa di laut 23 km Tenggara KAB-PANGANDARAN-JABAR
 "
+112.54171,-8.57119,58,3.0,"
+	di Laut 48 Km Barat Daya Malang - JATIM
+"
+111.28287,-8.94794,22,3.3,"
+	Pusat gempa diilaut, 87 Km Tenggara Pacitan Jatim
+"
 110.49423,-7.93524,12,2.6,"
 	Pusat gempa gempa di darat 14 Km BaratLaut GUNUNGKIDUL-DIY
+"
+110.26131,-8.63843,10,2.9,"
+	Pusat gempa di laut 81 km BaratDaya GUNUNGKIDUL-DIY
 "
 110.44681,-7.9166,4,1.5,"
 	Pusat gempa di darat, 10 Km Tenggara Bantul - DIY
@@ -1108,14 +2404,52 @@ Longitude,Latitude,Kedalaman,Magnitude,Keterangan
 110.49882,-7.88865,13,2.2,"
 	Pusat gempa di darat 16 km BaratLaut GUNUNGKIDUL - DIY
 "
+110.72774,-8.5305,10,2.9,"
+	Pusat gempa di laut, 57 km BaratDaya PACITAN-JATIM
+
+	&nbsp;
+"
 109.9865,-7.6032,16,2.5,"
 	Pusat gempa di daat 37 Km TimurLaut KEBUMEN-JATENG
 "
 112.2869,-7.98165,117,2.9,"
 	Pusat gempa 19 km Timur Laut Kab. Blitar-Jatim
 "
+111.59547,-8.6788,33,2.8,"
+	Pusat gempa di laut 67 km BaratDaya TRENGGALEK - JATIM
+"
+110.69695,-8.52092,30,2.5,"
+	Pusat gempa di Laut 58 km BaratDaya PACITAN - JAWA TIMUR
+"
+113.02149,-8.98473,8,2.7,"
+	Pusat gempa di laut 95 km BaratDaya LUMAJANG-JATIM
+"
+110.36784,-8.73547,8,2.8,"
+	Pusat gempa berada di laut,&nbsp;87 km BaratDaya GUNUNGKIDUL-DIY
+"
+110.19547,-8.90691,27,3.1,"
+	Pusat gempa di laut 111 km BaratDaya GUNUNG KIDUL - DIY
+"
+111.22037,-8.9631,19,3.4,"
+	Pusat gempa di laut 87 km Tenggara PACITAN-JATIM
+"
+110.94172,-8.67633,11,2.8,"
+	Pusat gempa di laut 58 km BaratDaya PACITAN - JATIM
+"
 110.47154,-7.93366,14,1.6,"
 	Pusat gempa didarat 13 km Tenggra Bantul - DIY
+"
+110.31994,-8.67498,10,3.5,"
+	Pusat gempa di laut 81 km BaratDaya GUNUNGKIDUL-DIY
+"
+112.95002,-8.62082,108,4.0,"
+	Pusat gempa di laut, 62 km BaratDaya LUMAJANG-JATIM
+"
+110.91584,-8.92418,10,2.7,"
+	Pusat gempa dilaut 84 km BaratDaya PACITAN-JATIM
+"
+109.96698,-8.92684,10,3.0,"
+	Pusat gempa di laut, 121 km Barat daya bantul
 "
 110.49106,-7.89181,13,1.6,"
 	Pusat gempa dilaut 15 km Timurlaut Bantul - DIY
@@ -1125,50 +2459,119 @@ Longitude,Latitude,Kedalaman,Magnitude,Keterangan
 
 	&nbsp;
 "
+112.50101,-8.82785,42,3.2,"
+	Pusat gempa di laut 77 km BaratDaya KAB-MALANG-JATIM
+"
+111.2389,-8.75295,36,2.8,"
+	Pusat gempa di laut 65 km Tenggara Pacitan-Jatim
+"
+111.1106,-8.5341,100,3.0,"
+	Pusat gempa di laut 37 km Selatan PACITAN-JATIM
+"
+110.20452,-8.56116,80,2.9,"
+	Pusat gempa dilaut, 75 Km BaratDaya Bantul DIY
+"
+109.137,-8.5491,24,3.1,"
+	Pusat gempa di laut 92 km Tenggara Cilacap-Jateng
+"
+109.8088,-8.7615,16,2.9,"Pusat gempa dilaut 112 km BaratDaya Bantul - DIY
+"
 108.539,-8.2755,37,3.3,Pusat gempa dilaut 80 Km BaratDaya Cilacap
 112.4556,-8.0433,162,3.9,Pusat gempa di darat 17 km BaratDaya Malang
 109.3439,-7.2014,26,2.1,Pusat gempa di darat 62 km BaratLaut kebumen
 113.6005,-7.8912,190,3.3,Pusat gempa di darat 32 km BaratLaut Jember
+112.29,-8.6633,101,2.9,Pusat gempa di laut 64 km Tenggara Blitar
+113.0124,-8.927,29,3.4,Pusat gempa di laut 91 km BaratDaya Lumajang
+112.4987,-8.7862,27,2.9,Pusat gempa di laut 85 km Tenggara Blitar
 108.6809,-8.4742,53,4.3,Pusat gempa di laut 90 km BaratDaya cilacap
+110.4686,-8.8118,15,2.7,Pusat gempa di laut 97 km BaratDaya Pacitan
 109.2581,-8.3516,37,2.6,Pusat gempa di laut 74 km Tenggara cilacap
+111.0992,-8.6251,38,2.6,Pusat gempa di laut 47 km Selatan Pacitan
+112.5024,-8.6183,109,2.7,Pusat gempa di laut 69 km Tenggara Blitar
+110.1568,-8.9178,27,3.1,Pusat gempa di laut 115 km BaratDaya Bantul
+110.1575,-8.8845,16,3.0,Pusat gempa di laut 112 km BaratDaya Bantul
+112.9969,-8.907,39,2.9,Pusat gempa di laut 79 km BaratDaya Puger
 108.5205,-8.322,35,3.2,Pusat gempa di laut 85 km BaratDaya cilacap
 109.9399,-8.2213,77,3.1,Pusat gempa di laut 56 km BaratDaya Bantul
+110.9061,-8.639,16,2.8,Pusat gempa di laut 53 km BaratDaya Pacitan
+110.5416,-8.6592,47,2.4,Pusat gempa di laut 79 km BaratDaya Pacitan
+110.5119,-8.9534,5,3.0,Pusat gempa di laut 105 km BaratDaya Pacitan
 108.8238,-8.4963,53,3.1,Pusat gempa di laut 87 km BaratDaya cilacap
 111.0842,-7.8842,129,2.7,Pusat gempa di darat 21 km BaratDaya Tawangmangu
 109.9949,-7.2911,12,2.7,Pusat gempa di darat 56 km TimurLaut kebumen
+109.0151,-8.608,26,3.6,Pusat gempa di laut 97 km Selatan cilacap
 110.42,-8.447,10,2.2,Pusat gempa di laut 62 km Tenggara Bantul
+110.4581,-8.7873,10,2.7,Pusat gempa di laut 96 km BaratDaya Pacitan
+108.7376,-8.7764,11,3.1,Pusat gempa di laut 120 km BaratDaya cilacap
 111.6996,-7.8873,130,2.5,Pusat gempa di darat 21 km Utara Trenggalek
+111.0303,-8.7938,26,2.6,Pusat gempa di laut 66 km BaratDaya Pacitan
+111.3358,-8.9262,26,2.7,Pusat gempa di laut 84 km Tenggara Pacitan
 110.3228,-7.9502,7,1.2,Pusat gempa di darat 6 km BaratDaya Bantul
 109.1187,-8.3641,41,3.0,Pusat gempa di laut 71 km Tenggara Cilacap
+110.118,-8.9691,10,2.9,Pusat gempa di laut 122 km BaratDaya Bantul
+110.9372,-8.8279,10,2.8,Pusat gempa di laut 72 km BaratDaya Pacitan
 110.1584,-8.3088,13,2.6,Pusat gempa di laut 49 km Selatan Kulonprogo
+113.3705,-8.5945,4,2.7,Pusat gempa di laut 53 km Tenggara Lumajang
 110.4823,-8.4301,21,2.8,Pusat gempa di laut 53 km BaratDaya Gunungkidul
 110.5434,-8.48,10,2.7,Pusat gempa di laut 58 km BaratDaya Gunungkidul
+110.2521,-8.775,17,3.8,Pusat gempa di laut 98 km BaratDaya Gunungkidul
+110.735,-8.5101,10,2.7,Pusat gempa di laut 52 km BaratDaya Pacitan
 110.306,-8.4465,85,2.5,Pusat gempa di laut 62 km BaratDaya Bantul
 109.3344,-7.8889,89,2.5,Pusat gempa di laut 38 km Tenggara Cilacap
+113.8723,-8.897,21,2.6,Pusat gempa di laut 83 km Tenggara Jember
+109.873,-8.941,28,3.3,Pusat gempa di laut 124 km BaratDaya Kulonprogo
+111.3878,-8.966,84,3.0,Pusat gempa di laut 90 km Tenggara Pacitan
 110.1756,-8.361,25,2.8,Pusat gempa di laut 55 km BaratDaya Bantul
+110.7075,-8.606,26,2.8,Pusat gempa di laut 62 km BaratDaya Pacitan
 108.8238,-7.585,255,2.5,Pusat gempa di darat 27 km BaratLaut Cilacap
+112.789,-8.693,124,3.1,Pusat gempa di laut 79 km BaratDaya Lumajang
 109.2601,-8.423,36,2.8,Pusat gempa di laut 81 km Tenggara Cilacap
+111.2756,-8.954,8,2.9,Pusat gempa di laut 86 km Tenggara Pacitan
+110.2871,-8.901,20,2.8,Pusat gempa di laut 110 km BaratDaya Gunungkidul
+109.9633,-8.559,30,3.0,Pusat gempa di laut 80 km BaratDaya Kulonprogo
 110.1762,-7.436,17,2.5,Pusat gempa di darat 37 km BaratLaut Sleman
 110.1997,-7.409,11,2.3,Pusat gempa di darat 38 km BaratLaut Sleman
+111.7067,-8.981,28,3.3,Pusat gempa di laut 100 km Selatan Trenggalek
+110.6408,-8.943,21,2.8,Pusat gempa di laut 96 km BaratDaya Pacitan
 110.5366,-7.962,8,1.2,Pusat gempa di darat 6 km Barat Gunungkidul
 110.505,-7.951,12,1.5,Pusat gempa di darat 10 km BaratLaut Gunungkidul
+111.0309,-8.856,10,3.0,Pusat gempa di laut 73 km BaratDaya Pacitan
 108.8219,-7.143,3,2.7,Pusat gempa di darat 47 km BaratDaya Tegal
 109.02,-8.37,38,4.8,"Pusat gempa di laut 71 km Selatan Cilacap, Dirasakan di Cilacap, Kebumen, Yogyakarta II-III MMI"
+110.8276,-8.79,26,2.7,Pusat gempa di laut 72 km BaratDaya Pacitan
+112.5391,-8.766,51,2.7,Pusat gempa di laut 85 km Tenggara Blitar
 110.5889,-8.0014,7,1.5,Pusat gempa di darat 4 km BaratDaya Gunungkidul
 110.4869,-7.9403,19,1.3,Pusat gempa di darat 12 km BaratLaut Gunungkidul
+110.9084,-8.7784,22,2.7,Pusat gempa di laut 67 km BaratDaya Pacitan
 112.5865,-8.224,148,3.0,Pusat gempa di darat 27 km BaratDaya Malang
+110.2503,-8.7351,41,3.4,Pusat gempa di laut 94 km BaratDaya Bantul
+110.721,-5.8577,516,3.8,Pusat gempa di laut 83 km TimurLaut Jepara
 110.3352,-8.2178,20,2.1,Pusat gempa di laut 36 km Selatan Bantul
 110.8101,-8.3633,63,2.8,Pusat gempa di laut 36 km BaratDaya Pacitan
+113.3363,-8.5537,2,2.7,Pusat gempa di laut 48 km Tenggara Lumajang
+112.4677,-8.8825,38,3.2,Pusat gempa di laut 93 km Tenggara Blitar
+110.2519,-8.505,76,2.6,Pusat gempa di laut 68 km BaratDaya Bantul
+111.3915,-8.8796,29,2.8,Pusat gempa di laut 82 km Tenggara Pacitan
+108.9421,-8.5476,29,2.3,Pusat gempa di laut 91 km BaratDaya Cilacap
+111.6403,-8.6378,106,3.3,Pusat gempa di laut 62 km BaratDaya Trenggalek
+111.3839,-8.6839,86,4.1,Pusat gempa di laut 62 km Tenggara Pacitan
 110.2681,-8.4296,10,3.6,Pusat gempa di laut 60 km BaratDaya Bantul
+111.3551,-8.9408,21,2.6,Pusat gempa di laut 87 km Tenggara Pacitan
 110.7078,-7.8351,13,1.2,Pusat gempa di darat 18 km TimurLaut Gunungkidul
 108.9898,-8.4044,26,3.0,Pusat gempa di laut 75 km BaratDaya Cilacap
+111.4024,-8.5362,80,2.7,Pusat gempa di laut 50 km Tenggara Pacitan
 110.2085,-7.7076,17,2.0,Pusat gempa di darat 16 km BaratLaut Sleman
+112.7773,-8.6596,112,2.7,Pusat gempa di laut 77 km BaratDaya Lumajang
+111.9887,-8.6897,29,2.6,Pusat gempa di laut 68 km BaratDaya Blitar
 109.058,-8.369,28,2.5,Pusat gempa di laut 71 km Tenggara Cilacap
+110.2179,-8.8964,20,2.6,Pusat gempa di laut 112 km BaratDaya Gunungkidul
 109.0335,-8.3444,36,2.4,Pusat gempa di laut 68 km Selatan Cilacap
 110.3338,-8.2212,21,2.2,Pusat gempa di laut 36 km Selatan Bantul
 110.2336,-8.2558,16,2.2,Pusat gempa di laut 42 km BaratDaya Bantul
+112.6076,-8.7832,101,3.0,Pusat gempa di laut 89 km Selatan Malang
 110.3194,-8.3191,19,2.0,Pusat gempa di laut 47 km Selatan Bantul
 110.5743,-8.3673,11,2.6,Pusat gempa di laut 45 km BaratDaya Gunungkidul
 111.6705,-8.0606,136,2.9,Pusat gempa di darat 3 km BaratLaut Trenggalek
 110.4266,-7.9116,11,1.4,Pusat gempa di darat 10 km Tenggara Bantul
 110.5298,-7.8601,13,1.3,Pusat gempa di darat 13 km Tenggara Tegal
+112.4565,-8.8718,44,3.2,Pusat gempa di laut 92 km Tenggara Blitar

@@ -1,0 +1,180 @@
+Datetime,Longitude,Latitude,Kedalaman,Magnitude,Keterangan,Clus_Db
+2019-01-01,111.92,-8.73,184,3.5,	Pusat gempa di laut 71 km Barat Daya TULUNGAGUNG-JATIM,-1
+2019-01-02,112.38,-8.85,89,3.4,"	Pusat gempa di laut, 77 km BaratDaya KAB-MALANG-JATIM",-1
+2019-01-07,109.09,-8.32,11,4.5,"	Pusat gempa di laut 69 km Tenggara CILACAP-JTENG.dirasakan di Pangandaran, Cilacap I-II MMI ",-1
+2019-01-08,111.67,-8.85,10,3.0,Pusat gempa 	di laut 85 km BaratDaya TRENGGALEK-JATIM,-1
+2019-01-09,113.61,-8.7,79,3.7,	Pusat gempa di laut 59 km BaratDaya JEMBER-JATIM,-1
+2019-01-10,111.77,-8.74,30,2.7,	Pusat gempa dilaut 72 km tenggara Trenggalek-Jatim,-1
+2019-01-12,111.99,-7.86,9,2.1,"	Pusat gempa di darat, 3 km BaratDaya KOTA-KEDIRI-JATIM",-1
+2019-01-14,110.77,-8.87,17,2.8,	Pusat gempa di laut 85 km BD Pacitan,0
+2019-01-21,108.86,-8.77,10,3.3,	Psat gempa di laut 120 km Barat Daya Cilacap - Jateng,-1
+2019-01-25,112.75,-8.92,11,3.4,	Pusat gempa di laut 75 km Tenggara KAB-MALANG-JATIM,2
+2019-01-26,114.8430958,-6.6,12,0.0,,-1
+2019-01-29,111.32,-8.59,106,3.9,	Pusat gempa dilaut 51 km tenggara Pacitan - Jatim,-1
+2019-01-30,112.23,-8.53,104,3.3,	Pusat gempa dilaut 44 km tengara Kab. Blitar-Jatim,-1
+2019-02-04,109.46,-7.23,18,2.5,	Pusat gempa di darat 9 km TimurLaut PURBALINGGA-JATEN,-1
+2019-02-06,111.57,-8.85,23,3.1,	Pusat gempa di laut 65 km BaratDaya Trenggalek Jatim,-1
+2019-02-07,113.01,-8.58,99,3.2,	Pusat gempa di laut 49 km Tenggara KAB-MALANG-JATIM,2
+2019-02-09,110.75,-7.93,25,2.2,	Pusat gempa didarat 18 km timur laut Gunungkidul-DIY,-1
+2019-02-10,108.71,-8.52,25,3.6,	Pusat gempa di laut 93 km Tenggara KAB-PANGANDARAN-JABAR,-1
+2019-02-15,112.8851937,-7.4,22,0.0,,-1
+2019-02-17,112.54,-8.87,20,3.1,"	Pusat gempa di laut, 72 km BaratDaya KAB-MALANG-JATIM",2
+2019-02-19,109.31,-6.65,11,2.7,	pusat gempa di laut 30 km BaratLaut PEMALANG-JATENG,-1
+2019-02-25,107.9439739,-6.9,22,0.0,,-1
+2019-03-02,110.96,-7.76,10,2.4,	Pusat gempa didarat 16 km BaratLaut WONOGIRI-JATENG,-1
+2019-03-03,109.17,-8.39,30,4.0,"	Pusat gempa di laut, 78 km Tenggara CILACAP-JATENG",-1
+2019-03-07,110.29,-8.7,31,3.0,	Pusat gempa dilaut 82 km BaratDaya GUNUNGKIDUL-DIY,1
+2019-03-11,109.24,-8.69,10,2.9,	Pusat gempa di laut 112 km Tenggara CILACAP-JATENG,-1
+2019-03-12,110.17,-5.78,570,4.9,	Pusat gempa dilaut 104 km BaratLaut JEPARA-JATENG,-1
+2019-03-16,112.74,-8.68,15,3.2,	Pusat gempa di laut 48 km Tenggara KAB-MALANG-JATIM,2
+2019-03-18,112.14,-8.96,10,3.9,"	Pusat gempa di laut, 92 km BaratDaya KAB-BLITAR-JATIM",-1
+2019-03-19,111.93,-7.87,5,3.5,"Pusat gempa didarat 10 km BaratDaya KOTA-KEDIRI-JATIM di rasakan di Sawahan, Loceret dan Ngetor (Kab. Nganjuk) I-II MMI",-1
+2019-03-23,110.11,-8.24,10,2.5,	Pusat gempa di laut 46 km BaratDaya BANTUL-DIY,-1
+2019-03-24,112.52,-8.87,10,3.1,	Pusat gempa dilaut 81 km baratdaya Kab. Malang-Jatim,2
+2019-03-25,107.5803459,-6.2,32,0.0,,-1
+2019-03-29,111.16,-8.88,10,2.8,	Pusat gempa dilaut 78 km tenggara Pacitan-Jatim,0
+2019-03-31,112.33,-8.98,10,2.7,	Pusat gempa dilaut 95 km Tenggara KAB-BLITAR-JATIM,-1
+2019-04-01,111.01,-8.85,10,2.6,Pusat gempa di laut 75 km BaratDaya PACITAN-JATIM,0
+2019-04-03,113.68,-8.93,10,2.2,	Pusat gempa di laut 81 km Tenggara JEMBER-JATIM,-1
+2019-04-04,110.27,-8.81,26,3.1,	Pusat gempa di laut 98 km BaratDaya GUNUNGKIDUL-DIY,1
+2019-04-07,108.8,-7.99,75,2.8,	Pusat gempa di laut 37 Km Barat Daya Cilacap - Jawa Tengah,-1
+2019-04-09,110.7,-7.63,10,2.4,	Pusat gempa di darat 13 km Tenggara BOYOLALI-JATENG,-1
+2019-04-11,112.11,-8.79,26,2.9,"	Pusat gempa di laut, 73 km BaratDaya KAB-BLITAR-JATIM",-1
+2019-04-16,111.69,-8.63,21,2.6,"	Pusat gempa di laut, 60 km BaratDaya TRENGGALEK-JATIM",-1
+2019-04-17,109.73,-8.6,5,3.0,	Pusat gempa di laut 99 km BaratDaya Kulonpogo,-1
+2019-04-19,109.72,-8.51,27,2.8,	Pusat gempa di laut 91 km BaratDaya KULONPROGO-DIY,-1
+2019-04-20,110.08,-8.26,84,3.1,	Pusat gempa di laut 50 km BaratDaya BANTUL-DIY,-1
+2019-04-23,111.6,-7.34,8,2.9,"	Pusat gempa di darat, 18 km TimurLaut NGAWI-JATIM",-1
+2019-04-27,109.84,-8.79,10,2.7,"	Pusat gempa di laut, 113 km BaratDaya BANTUL-DIY",-1
+2019-05-01,111.11,-8.61,10,2.6,	Pusat gempa dilaut 47 km Tenggara Pacitan Jawa Timur,0
+2019-05-02,113.3,-8.74,116,2.7,	Pusat gempa dilaut 67 km Tenggara LUMAJANG-JATIM,-1
+2019-05-03,108.1110332,-5.7,50,0.0,,-1
+2019-05-04,109.75,-8.28,94,2.9,	Pusat gempa di laut 68 km Tenggara KEBUMEN-JATENG,-1
+2019-05-08,110.8239886,-7.3,50,0.0,,-1
+2019-05-09,108.67,-8.23,68,3.2,	Pusat gempa di laut 61 km Tenggara KAB-PANGANDARAN-JABAR,-1
+2019-05-11,109.68,-8.78,16,2.9,	Pusat gempa dilaut 119 km BaratDaya Kulonprogo - DIY,-1
+2019-05-12,109.03,-7.99,79,2.9,	Pusat gempa dilaut 29 km Tenggara CILACAP-JATENG,-1
+2019-05-13,111.82,-8.91,27,3.7,	Pusat gempa dilaut 92 km tenggara Trenggalek-Jatim,-1
+2019-05-15,110.56,-8.12,128,2.4,	Pusat gempa di laut 20 km BaratDaya Gunung Kidul,-1
+2019-05-16,112.48,-8.87,10,4.9,	pusat gempa di laut 82 km Barat daya Kab. Malang Jatim,-1
+2019-05-17,107.2824069,-5.7,52,0.0,,-1
+2019-05-18,112.58,-6.66,10,3.3,	pusat gempa di laut 54 km TimurLaut LAMONGAN-JATIM,-1
+2019-05-22,110.78,-6.69,10,4.2,"	Pusat gempa di darat 14 km BaratLaut Kudus-Jateng. Dirasakan di Kudus, Demak dan Jepara II-III MMI",-1
+2019-05-23,113.38,-8.28,157,4.1,	Pusat gempa di darat 23 km Tenggara LUMAJANG-JATIM,-1
+2019-05-25,109.93,-8.59,116,2.9,	Pusat gempa di laut 89 km BaratDaya bantul D.I.Yogyakarta,1
+2019-05-27,107.2031178,-6.7,52,0.0,,-1
+2019-05-28,108.53,-8.7,45,4.5,"	Pusat gempa di laut, 110 km Tenggara Kab. pangandaran Jabar",-1
+2019-05-29,112.82,-8.46,119,3.1,	pusat gema di laut 45 km tenggara Kab. Malang Jatim,2
+2019-05-30,109.04,-8.35,37,3.2, pusat gempa di laut 69 km Tenggara CIlacap Jateng,-1
+2019-06-03,111.32,-8.55,88,3.0,	Pusat gempa di laut 47 km Tenggara PACITAN-JATIM,-1
+2019-06-04,111.06,-8.55,70,2.6,	Pusat gempa di laut 41 km BaratDaya PACITAN-JATIM,0
+2019-06-05,108.6,-7.34,76,3.6,	Pusat gempa di darat 39 km tenggara Kab. Sukabumi Jabar,-1
+2019-06-06,111.01,-8.99,53,3.1,	Pusat gempa dilaut 90 km BaratDaya PACITAN-JATIM,-1
+2019-06-07,109.8050037,-6.3,60,0.0,,-1
+2019-06-10,112.6,-8.81,30,3.0,	Pusat gempa di laut 74 km Tenggara KAB-MALANG-JATIM,2
+2019-06-16,112.49,-8.87,30,3.5,"	Pusat gempa di laut, 81 km BaratDaya KAB-MALANG-JATIM",-1
+2019-06-17,109.23,-8.33,10,3.1,	71 km Tenggara Cilacap - Jawa Tengah,-1
+2019-06-18,110.99,-8.91,20,3.0,	Pusat gempa di laut 82 km BaratDaya PACITAN-JATIM,-1
+2019-06-21,108.69,-8.42,29,5.1," Pusat gempa di laut, 82 km Tenggara KAB-PANGANDARAN-JABAR",-1
+2019-06-24,110.27,-5.8,529,4.9,	Pusat gempa dilaut 98 Km Barat Laut Jepara - Jateng,-1
+2019-06-29,108.83,-8.49,12,5.1,"Pusat gempa di laut, 87 km BaratDaya CILACAP-JATENG",-1
+2019-07-03,108.93,-8.51,10,2.9,	Pusat gempa di laut 87 km BaratDaya CILACAP-JATENG,-1
+2019-07-04,113.05,-8.36,145,3.5,	Pusat gempa di laut 32 km BaratDaya Lumajang-Jatim,-1
+2019-07-05,110.25,-8.98,10,3.7,	Pusat gempa dilaut 116 km BaratDaya GUNUNGKIDUL-DIY,-1
+2019-07-07,113.17,-7.46,6,3.2,	Pusat gempa di laut 33 km BaratDaya SAMPANG-JATIM,-1
+2019-07-08,110.52,-8.59,10,3.1,	Pusat gempa di laut 67 km BaratDaya GUNUNGKIDUL-DIY,1
+2019-07-09,112.31,-8.95,10,3.4,Pusat gempa di laut 91 km Tenggara KAB-BLITAR-JATIM,-1
+2019-07-10,111.02,-8.95,10,3.0,"Pusat gempa di laut, 86 km BaratDaya PACITAN-JATIM",-1
+2019-07-15,110.64,-8.67,9,2.7,	Pusat gempa di laut 75 km BaratDaya PACITAN-JATIM,0
+2019-07-16,110.35,-8.68,10,2.8,	Pusat gempa dilaut 81 km BaratDaya GUNUNGKIDUL-DIY,1
+2019-07-17,110.9,-8.74,18,3.0,	Pusat gempa di laut 66 km BaratDaya PACITAN-JATIM,-1
+2019-07-18,110.45,-8.76,12,3.0,"Pusat gempa di laut, 86 km BaratDaya GUNUNGKIDUL-DIY",1
+2019-07-22,110.55,-8.91,20,3.4,	Pusat gempa di laut 177 km BaratDaya PACITAN-JATIM,1
+2019-07-26,112.8,-8.83,30,3.1,	Pusat gempa di laut 113 km tenggara Malang-Jatim,2
+2019-07-28,111.9,-8.93,10,4.5,	Pusat gempa di laut 246 km Tenggara KAB-MALANG-JATIM,-1
+2019-07-31,108.75,-8.33,70,2.7,	239 KM BaratDaya lumajang - Jawa Timur,-1
+2019-08-01,108.87,-8.5,22,3.1,"	Pusat gempa di laut, 87 km BaratDaya CILACAP-JATENG",-1
+2019-08-02,111.6,-7.68,5,2.8,	Pusat gempa di darat 8 km BaratDaya KAB-MADIUN-JATIM,-1
+2019-08-03,111.82,-7.56,30,2.5,	pusat gempa di darat 10 km Baratlaut NGANJUK- JATIM,-1
+2019-08-04,109.07,-8.53,93,3.8,	Pusat gempa dilaut 89 km Tenggara CILACAP-JATENG,-1
+2019-08-05,113.8974974,-7.9,80,0.0,,-1
+2019-08-06,111.76,-8.88,27,3.6,	Pusat gempa dilaut 88 km tenggara TRENGGALEK-JATIM,-1
+2019-08-10,110.62,-8.92,10,3.1,	Pusat gempa di laut 98 km BaratDaya PACITAN-JATIM,1
+2019-08-11,109.77,-8.47,30,3.5,	Pusat gempa di laut 84 km BaratDaya KULONPROGO-DIY,-1
+2019-08-17,110.39,-8.84,9,3.2,Pusat gempa di laut 97 Km Barat Daya GUNUNGKIDUL - DIY,1
+2019-08-18,110.8317416,-6.2,82,0.0,,-1
+2019-08-19,111.91,-8.96,35,3.4,	Pusat gempa di laut 97 km BaratDaya KAB-BLITAR-JATIM,-1
+2019-08-22,106.2860957,-7.7,82,0.0,,-1
+2019-08-23,108.99,-8.41,29,3.2,	Pusat gempa di laut 76 km BaratDaya CILACAP-JATENG,-1
+2019-08-24,112.49,-8.83,10,4.3,"Pusat gempa di laut, 77 km BaratDaya KAB-MALANG-JATIM, dirasakan di MALANG, BLITAR, TRENGGALEK, TULUNGAGUNG II-III MMI",-1
+2019-08-25,110.93,-8.39,10,2.6,	Pusat gempa di laut 30 km BaratDaya PACITAN-JATIM,0
+2019-08-26,108.3570751,-7.6,82,0.0,,-1
+2019-08-27,109.06,-8.4,24,3.2,"Pusat gempa di laut, 75 km Tenggara CILACAP-JATENG",-1
+2019-08-28,108.94,-8.56,53,4.1,	Pusat gempa di laut 92 km BaratDaya CILACAP-JATENG,-1
+2019-08-29,109.22,-8.24,36,2.7,	Pusat gempa di laut 61 km Tenggara CILACAP-JATENG,-1
+2019-09-01,111.01,-8.71,10,2.8,	Pusat gempa di laut 97 km BaratDaya BANTUL-DIY,0
+2019-09-03,112.12,-7.84,22,2.7,	Pusat gempa di darat 8 km Barat daya Kab. Kediri Jatim,-1
+2019-09-04,111.93,-8.06,143,3.7,"Pusat gempa di laut, 3 km TimurLaut TULUNGAGUNG-JATIM",-1
+2019-09-05,110.98,-8.57,10,2.8,"	Pusat gempa di laut, 45 km BaratDaya PACITAN-JATIM",0
+2019-09-06,110.24,-8.58,10,2.6,	Pusat gempa di laut 76 km BaratDaya BANTUL-DIY,-1
+2019-09-07,109.96,-8.7,10,3.0,	Pusat gempa di laut 98 km Barat daya Bantul DIY,1
+2019-09-08,109.89,-8.77,10,2.9,	Pusat gempa dilaut 109 km BaratDaya BANTUL-DIY,1
+2019-09-09,113.17,-7.87,10,2.7,	Pusat gempa di darat 11 km BaratDaya KOTA-PROBOLINGGO-JATIM,-1
+2019-09-12,109.29,-8.42,10,3.4,	Pusat gempa di laut 83 km Tenggara CILACAP-JATENG,-1
+2019-09-13,112.6,-8.9,60,3.2,	Pusat gempa di laut 84 km Tenggara KAB-MALANG-JATIM,2
+2019-09-15,112.54,-8.78,10,3.8,"	Pusat gempa di laut 71 km baratdaya Malang-Jatim, dirasakan di Malang I-II MMI",-1
+2019-09-19,111.72,-6.71,634,5.8,"	Pusat gempa di laut 40 km BaratLaut - Tuban Jawa Timu
+	dirasakan di Madura, Malang, Denpasar, Mataram, Lombok Barat, Lombok Tengah, Sumbawa, Bima III MMI, Cilacap, Purworejo, Yogyakarta, Lumajang, Tuban, Trenggalek, Surabaya II- III MMI, Bandung II MMI ::BMKG",-1
+2019-09-22,111.62,-7.32,11,3.0,	Pusat gempa di darat&nbsp; 21&nbsp; km TimurLaut NGAWI-JATIM,-1
+2019-09-23,112.15,-8.81,31,3.6,	Pusat gempa di laut 75 km BaratDaya KAB-BLITAR-JATIM,-1
+2019-09-25,110.42,-8.82,55,2.7,	Pusat gempa di laut 94 km BaratDaya GUNUNGKIDUL-DIY,-1
+2019-09-27,109.44,-8.69,28,3.5,	Pusat gempa di laut 115 km BaratDaya KEBUMEN-JATENG,-1
+2019-09-29,108.55,-6.87,30,3.2,	Pusat gempa didarat 13 km TimurLaut KAB-KUNINGAN-JABAR,-1
+2019-09-30,108.64,-8.82,18,3.2,	Pusat gempa dilaut 125 Km Tenggara Pangandaran - Jawa Barat,-1
+2019-10-01,110.12,-7.74,124,2.5,Pusat gempa di darat 10 km BaratLaut KULONPROGO-DIY,-1
+2019-10-03,114.0358588,-6.6,102,0.0,,-1
+2019-10-04,110.46,-7.84,13,2.0,	Pusat gempa di darat 13 km Timur Laut Kab. Bantul DIY,-1
+2019-10-06,110.52,-8.98,86,3.8,	Pusat gempa di laut 110 km BaratDaya GUNUNGKIDUL-DIY,-1
+2019-10-07,110.48,-8.8,11,3.8,	Pusat gempa di laut 90 km BaratDaya GUNUNGKIDUL-DIY,-1
+2019-10-09,108.95,-8.48,25,3.1,	Pusat gempa dilaut 84 km BaratDaya Cilacap - Jawa Tengah,-1
+2019-10-12,110.19,-8.8,30,2.9,	Pusat gempa di laut 101 km BaratDaya BANTUL - DIY,1
+2019-10-14,110.71,-8.55,26,2.7,	Pusat gempa di laut 60 km BaratDaya PACITAN-JATIM,0
+2019-10-16,112.33,-8.16,10,2.7,	Pusat gempa di darat 13 Km Tenggara Blitar - Jawa Timur,-1
+2019-10-18,110.83,-8.58,33,2.9,	Pusat gempa di laut 54 km BaratDayaPACITAN -JATIM,0
+2019-10-20,110.46,-8.02,10,2.1,"	Pusat gempa di darat, 17 km BaratDaya GUNUNGKIDUL-DIY",-1
+2019-10-21,110.79,-8.62,10,2.6,	Pusat gempa di laut 60 km BaratDaya PACITAN-JATIM,0
+2019-10-22,110.99,-8.69,12,2.7,	Pusat gempa di laut 85 km BaratDaya PACITAN-JATIM,0
+2019-10-24,108.7,-8.06,45,4.0, Pusat gempa di laut 45 km Tenggara Kab-Pangandaran-Jabar,-1
+2019-10-25,110.64,-6.17,527,4.7,	Pusat gempa dilaut 46 km BaratLaut JEPARA-JATENG,-1
+2019-10-30,109.0,-8.43,32,3.2,"Pusat gempa di laut, 78 km BaratDaya CILACAP-JATENG",-1
+2019-10-31,108.2,-8.24,10,4.8,Pusat gempa di laut 68 km BaratDaya KAB-PANGANDARAN-JABAR,-1
+2019-11-01,112.6,-8.8,12,3.1,	Pusat gempa di laut 73 km Tenggara KAB-MALANG-JATIM,2
+2019-11-03,110.63,-8.7,10,2.7,	Pusat gempa di laut 78 km BaratDaya PACITAN-JATIM,0
+2019-11-07,110.76,-8.42,16,2.2,	Pusat gempa di laut 46 km BaratDaya PACITAN-JATIM,-1
+2019-11-08,110.43,-8.06,10,1.6,	Pusat gempa didarat 19 km tenggara Bantul-DIY,-1
+2019-11-10,110.47,-8.0,10,1.8,	Pusat gempa di darat 15 km BaratDaya GUNUNGKIDUL-DIY,-1
+2019-11-11,110.54,-8.98,10,2.9,	Pusat gempa di lau 108 km BaratDaya PACITAN-JATIM,0
+2019-11-13,113.09,-8.13,5,2.5,	Pusat gempa di darat 51 km Barat Laut Lumajang - Jawa Timur,-1
+2019-11-15,110.82,-8.97,64,3.4,	Pusat gempa di laut 93 km BaratDaya PACITAN-JATIM,1
+2019-11-16,113.03,-7.41,16,3.4,	Pusat gempa di laut 30 km TimurLaut KOTA-PASURUAN-JATIM,-1
+2019-11-17,109.19,-8.46,30,2.9,	pusat gempa dilaut 84 km tenggara Cilacap-Jateng,-1
+2019-11-18,111.76,-8.87,36,3.1,	Pusat gempa dilaut 87 km Tenggara Trenggalek - Jawa Timur,-1
+2019-11-19,110.57,-7.81,7,1.7,	Pusat gempa di darat 11 km BaratDaya Klaten - Jawa Tengah,-1
+2019-11-22,109.2,-7.83,10,2.3,	Pusat gempa di laut 24 km Tenggara CILACAP-JATENG,-1
+2019-11-23,109.65,-7.85,106,3.1,"Pusat gempa di laut, 20 km Selatan KEBUMEN-JATENG",-1
+2019-11-26,110.66,-8.87,10,3.0,	Pusat gempa dilaut 91 km baratdaya Pacitan-Jatim,0
+2019-12-01,110.03,-8.92,10,3.2,"	Pusat gempa di laut 118 km BaratDaya BANTUL-DIY, dirasakan di Pleret Bantul II MMI",1
+2019-12-04,110.53,-8.9,19,3.3,	Pusat gempa di laut 101 km BaratDaya GUNUNGKIDUL-DIY,1
+2019-12-05,110.42,-8.74,28,3.2,	Pusat gempa di laut 85 km BaratDaya GUNUNGKIDUL-DIY,1
+2019-12-06,110.5117165,-6.2,122,0.0,,-1
+2019-12-08,110.25,-8.91,10,3.0,	Pusat gempa dilaut 109 km baratdaya Gunungkidul-DIY,1
+2019-12-10,110.27,-8.89,11,3.3,	Pusat gempa dilaut 106 km baratdaya Gunungkidul-DIY,1
+2019-12-11,110.24,-8.91,10,3.2,	Pusat gempa dilaut 109 km BaratDaya GunungKidul - DIY,1
+2019-12-12,111.82,-8.69,18,2.9,	Pusat gempa dilaut 68 km Tenggara TRENGGALEK-JATIM,-1
+2019-12-13,110.73,-8.83,10,3.3, Pusat gempa dilaut 83 km BaratDaya PACITAN-JATIM,1
+2019-12-16,109.08,-8.31,27,3.1,	Pusat gempa di laut 65 km Tenggara CILACAP-JATENG,-1
+2019-12-17,111.64,-8.8,29,2.8,	Pusat gempa dilaut 79 km BaratDaya TRENGGALEK-JATIM,-1
+2019-12-18,111.3,-6.89,16,2.8, Pusat gempa didarat 15 km BaratLaut BLORA-JATENG,-1
+2019-12-22,113.18,-8.0,6,2.9,	Pusat gempa didarat 15 km BaratLaut LUMAJANG-JATIM,-1
+2019-12-24,112.85,-8.95,9,2.6,	Pusat gempa di laut 95 km Tenggara KAB-MALANG-JATIM,-1
+2019-12-25,111.3,-6.87,13,3.6,	Pusat gempa di darat 16 km BaratLaut BLORA-JATENG,-1
